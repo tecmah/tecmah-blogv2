@@ -12,4 +12,4 @@ bundle exec jekyll serve
 # TECMAHのBLOGです
 blogのファーストバージョンはtecmah-blogになります。
 Hexoで構築しましたが、githubpageによる運用が大変になってきたので
-作り直しました。
+作り直しました
