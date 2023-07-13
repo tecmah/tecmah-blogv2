@@ -9,6 +9,7 @@ Hexoで構築しましたが、githubpageによる運用が大変になってき
 ## rubyインストール
 
 rubyはrbenvでの管理を推奨しています。
+現在のversionは3.2.2で動作させています。
 
 ## Jekyllのインストール
 
