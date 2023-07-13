@@ -7,8 +7,6 @@
 ## ローカルでのプレビュー
 bundle exec jekyll serve
 ## GithubPageの設定
-
-
 # TECMAHのBLOGです
 blogのファーストバージョンはtecmah-blogになります。
 Hexoで構築しましたが、githubpageによる運用が大変になってきたので
