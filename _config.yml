@@ -20,12 +20,16 @@
 
 title: TECMAH BLOG V2
 email: info.tecmah@google.com
+author: TECMAH
+copyright: Copyright © 2023
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This blog serves as a place to document the thoughts and experiences I gain while embarking on daily new challenges. It's not written specifically for anyone else.
+  In facing new challenges, there are often times when I make mistakes, and my viewpoint may differ from those of my readers. However, all of these are part of my valuable experiences.
+  What I value here is sharing these challenges and thoughts with you all.
+  So, if you share something with me, it will be of great help to my new challenges.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tecmah.com" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: "/favicon.png" # the favicon for your site
 twitter_username: onlyos
 github_username:  maurayonori
 
@@ -34,6 +38,22 @@ theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
 
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+#      description:
+#      image:
+      category: development news
+      tags:
+    posts:
+      description:
+      image:
+      category: blog
+      tags: development news
+#      published: false
+#      sitemap: false
+    auto_open: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
