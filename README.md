@@ -26,6 +26,7 @@ bundle exec jekyll serve
 # github Action　test
 
 gh workflow run jekyll.yml --ref main
+gh run list --workflow=jekyll.yml
 
 ## GithubPageの設定
 
