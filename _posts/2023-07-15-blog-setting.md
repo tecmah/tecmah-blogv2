@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog setting
+title: JekyllとGithub pageで爆速で三年放置したBLOGをリニューアル
 date: 2023-07-15 13:40 +0900
 ---
 
