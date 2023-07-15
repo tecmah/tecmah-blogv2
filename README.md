@@ -23,4 +23,9 @@ Jekyll公式の解説に沿ってインストールしてください。
 
 bundle exec jekyll serve
 
+# github Action　test
+
+gh workflow run jekyll.yml --ref main
+
 ## GithubPageの設定
+
