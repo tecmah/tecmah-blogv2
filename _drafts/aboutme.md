@@ -3,6 +3,6 @@ layout: post
 title: about me
 description:
 image:
-category: blog
+category: about
 tags: about
 ---

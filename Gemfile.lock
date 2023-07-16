@@ -5,10 +5,17 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
+    dotenv (2.8.1)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    faraday (2.7.10)
+      faraday-net_http (>= 2.0, < 3.1)
+      ruby2_keywords (>= 0.0.4)
+    faraday-multipart (1.0.4)
+      multipart-post (~> 2)
+    faraday-net_http (3.0.2)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -65,6 +72,7 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    multipart-post (2.3.0)
     nokogiri (1.15.3-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.15.3-x86_64-linux)
@@ -79,6 +87,10 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.5)
     rouge (4.1.2)
+    ruby-openai (4.2.0)
+      faraday (>= 1)
+      faraday-multipart (>= 1)
+    ruby2_keywords (0.0.5)
     rubyzip (2.3.2)
     safe_yaml (1.0.5)
     sass-embedded (1.63.6-arm64-darwin)
@@ -95,6 +107,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  dotenv
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3, >= 4.3.2)
   jekyll-compose (~> 0.12.0)
@@ -104,6 +117,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-spaceship
+  ruby-openai
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
