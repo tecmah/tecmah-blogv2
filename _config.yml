@@ -44,6 +44,9 @@ sitemap: true
 # theme_color: "#ffffff"
 theme_color: snowwhite
 
+# If you want to change the content width, you can set to another value
+content_width: "1200px"
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
@@ -55,7 +58,7 @@ header_pages:
   - menu/contact.html
 
 google_form:
-  url: "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfZcGWu5ISan2WjmzWme3Om_th0yXnnfa4jcG8SyejGpCYWOQ/formResponse"
+  url: GOOGLE_FORM_URL
   name_entry: "entry.1199157498"
   email_entry: "entry.923332370"
   subject_entry: "entry.1032018857"
