@@ -52,17 +52,26 @@ header_pages:
   - menu/categories.html
   - menu/tags.html
   - menu/about.md
+  - menu/contact.html
+
+google_form:
+  url: "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfZcGWu5ISan2WjmzWme3Om_th0yXnnfa4jcG8SyejGpCYWOQ/formResponse"
+  name_entry: "entry.1199157498"
+  email_entry: "entry.923332370"
+  subject_entry: "entry.1032018857"
+  message_entry: "entry.392222136"
+
 
 # Pagenation setting
 paginate: 10 
 
 # Disqus comments
-disqus:
-  shortname: "yostecmahmt"
+# disqus:
+#   shortname: "yostecmahmt"
 
 # Build settings
 markdown: kramdown
-remote_theme: maurayonori/jekyll-theme-yat@master
+remote_theme: maurayonori/jekyll-theme-yat@develop
 
 plugins:
   - jekyll-feed
