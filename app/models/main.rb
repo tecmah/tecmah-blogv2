@@ -1,21 +1,23 @@
-require "openai"
-require "Dotenv"
+require_relative 'title_handler'
+require_relative 'openai_client'
+require_relative 'google_translate'
+require_relative 'filename_generator'
+require_relative 'metadata_handler'
+require_relative 'markdown_file_generator'
+require_relative 'title_updater'
 
-Dotenv.load
+title = TitleHandler.get_title
 
-prompt = <<'EOS'
-あなたはエンジニアです。
-マークダウンでブログを丁寧に読者に分かるように
-たまにギャグをもりこんで書いてください。
-タイトル:OpenAI APIをRubyで実装した
-EOS
-client = OpenAI::Client.new(access_token: ENV['OPENAI_API_KEY'])
+prompt = OpenaiClient.generate_prompt(title)
 
-response = client.chat(
-    parameters: {
-        model: "gpt-3.5-turbo",
-        messages: [{ role: "user", content: prompt}],
-        temperature: 0.7,
-    })
-puts response
-puts response.dig("choices", 0, "message", "content")
+# 認証まわりを整えるため一旦、コメントアウト
+# translated_title = GoogleTranslate.translate(title) 
+
+# filename = FilenameGenerator.generate_filename(translated_title)
+filename = FilenameGenerator.generate_filename(title)
+
+metadata = MetadataHandler.generate(title)
+
+MarkdownFileGenerator.generate(metadata, content)
+
+TitleUpdater.update(title)

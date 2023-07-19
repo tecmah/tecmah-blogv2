@@ -5,6 +5,7 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
+    diff-lcs (1.5.0)
     dotenv (2.8.1)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
@@ -19,8 +20,18 @@ GEM
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
+    google-cloud-core (0.21.0)
+    google-cloud-translate (0.22.0)
+      google-cloud-core (~> 0.21.0)
     google-protobuf (3.23.4-arm64-darwin)
     google-protobuf (3.23.4-x86_64-linux)
+    googleauth (1.6.0)
+      faraday (>= 0.17.3, < 3.a)
+      jwt (>= 1.4, < 3.0)
+      memoist (~> 0.16)
+      multi_json (~> 1.11)
+      os (>= 0.9, < 2.0)
+      signet (>= 0.16, < 2.a)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
@@ -63,6 +74,7 @@ GEM
       rainbow (~> 3.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jwt (2.7.1)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -71,12 +83,15 @@ GEM
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    memoist (0.16.2)
     mercenary (0.4.0)
+    multi_json (1.15.0)
     multipart-post (2.3.0)
     nokogiri (1.15.3-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.15.3-x86_64-linux)
       racc (~> 1.4)
+    os (1.1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.3)
@@ -87,6 +102,14 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.5)
     rouge (4.1.2)
+    rspec (2.99.0)
+      rspec-core (~> 2.99.0)
+      rspec-expectations (~> 2.99.0)
+      rspec-mocks (~> 2.99.0)
+    rspec-core (2.99.2)
+    rspec-expectations (2.99.2)
+      diff-lcs (>= 1.1.3, < 2.0)
+    rspec-mocks (2.99.4)
     ruby-openai (4.2.0)
       faraday (>= 1)
       faraday-multipart (>= 1)
@@ -97,6 +120,11 @@ GEM
       google-protobuf (~> 3.23)
     sass-embedded (1.63.6-x86_64-linux-gnu)
       google-protobuf (~> 3.23)
+    signet (0.17.0)
+      addressable (~> 2.8)
+      faraday (>= 0.17.5, < 3.a)
+      jwt (>= 1.5, < 3.0)
+      multi_json (~> 1.10)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
     unicode-display_width (2.4.2)
@@ -108,6 +136,8 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv
+  google-cloud-translate
+  googleauth
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3, >= 4.3.2)
   jekyll-compose (~> 0.12.0)
@@ -117,7 +147,9 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-spaceship
+  rspec (~> 2.1)
   ruby-openai
+  signet
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)

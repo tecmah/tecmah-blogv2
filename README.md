@@ -17,11 +17,11 @@ bundle exec jekyll draft "My new draft"
 # draft rename
 bundle exec jekyll rename _drafts/my-new-draft.md "My Renamed Draft"
 # specify a specific date on which to publish it
-$ bundle exec jekyll publish _drafts/my-new-draft.md --date 2014-01-24
-#  specify a custom format for the date attribute in the yaml front matter
-$ bundle exec jekyll publish _drafts/my-new-draft.md --timestamp-format "%Y-%m-%d %H:%M:%S %z"
-
-
+bundle exec jekyll publish _drafts/my-new-draft.md --date 2014-01-24
+# specify a custom format for the date attribute in the yaml front matter
+bundle exec jekyll publish _drafts/my-new-draft.md --timestamp-format "%Y-%m-%d %H:%M:%S %z"
+# Unpublish your post using
+bundle exec jekyll unpublish _posts/2014-01-24-my-new-draft.md
 ```
 
 ## rubyインストール
