@@ -43,7 +43,7 @@ jsonで設定しない場合も紹介します
 項目`**/**/*`　値`assets/images/`
 を入力します。
 
-![Alt text](../assets/images/2023-07-21-vscode-settings-for-pasting-images-into-markdown/image.png)
+![Alt text](/assets/images/2023-07-21-vscode-settings-for-pasting-images-into-markdown/image.png)
 
 
 ## Macでのペーストの例
@@ -102,8 +102,8 @@ Microsoftの`learn-images`というVSCode拡張を使うと、フォルダ内の
 この拡張機能は Microsoft Learn の編集者向けツール `vscode-docs-authoring` の一部として提供されています。
 
 [vscode-docs-authoring](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images)
-![Alt text](../assets/images/2023-07-21-vscode-settings-for-pasting-images-into-markdown/image-1.png)
-![Alt text](../assets/images/2023-07-21-vscode-settings-for-pasting-images-into-markdown/image-2.png)
+![Alt text](/assets/images/2023-07-21-vscode-settings-for-pasting-images-into-markdown/image-1.png)
+![Alt text](/assets/images/2023-07-21-vscode-settings-for-pasting-images-into-markdown/image-2.png)
 ---
 
 以上、VSCodeでクリップボードの画像をそのままMarkdownに貼り付ける方法についての説明でした。
