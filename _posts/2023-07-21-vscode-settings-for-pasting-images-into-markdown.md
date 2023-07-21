@@ -6,9 +6,6 @@ description: この記事では、VSCodeの設定を利用してクリップボ�
 category: Engineering
 tags: Software VScode Setting
 ---
-以下は、その記事を基に作成したブログ記事のマークダウン形式のドラフトです。
-
----
 
 この記事では、VSCodeでクリップボードの画像をそのままMarkdownに貼り付ける方法を詳しく説明します。これは、2023年7月時点の情報です。
 公式でいつの間にかクリップボードの画像をMarkdownのファイルに貼り付けることができるようになっていました。
