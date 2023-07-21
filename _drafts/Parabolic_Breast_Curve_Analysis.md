@@ -129,7 +129,7 @@ plt.show()
 Pythonでは`matplotlib`と`numpy`を利用して、放物線のプロットを行っています。
 
 
-![two_breasts_curve_small_nipple](assets/images/two_breasts_curve_small_nipple.png)
+![two_breasts_curve_small_nipple](/assets/images/two_breasts_curve_small_nipple.png)
 
 ## まとめ：放物線の魅力と物理学の原理
 
@@ -145,5 +145,5 @@ Pythonでは`matplotlib`と`numpy`を利用して、放物線のプロットを�
 すごいのがありました
 しかも動く・・・・
 
-![Alt text](assets/images/image2.png)
+![Alt text](/assets/images/image2.png)
 [リンク](https://www.desmos.com/calculator/i05puaquwh?lang=ja)
