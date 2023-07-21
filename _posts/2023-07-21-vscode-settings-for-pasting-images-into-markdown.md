@@ -43,7 +43,7 @@ jsonで設定しない場合も紹介します
 項目`**/**/*`　値`assets/images/`
 を入力します。
 
-![Alt text](../../../assets/images/2023-07-21-vscode-settings-for-pasting-images-into-markdown/image.png)
+![Alt text](/assets/images/2023-07-21-vscode-settings-for-pasting-images-into-markdown/image.png)
 ## Macでのペーストの例
 
 Mac上でペーストすると、次のようになります。
