@@ -52,3 +52,18 @@ Information Systems: 情報システム、データベース、情報管理な�
 Artificial Intelligence: 人工知能、機械学習、知識処理などのトピック
 Theory of Computation: 計算理論、アルゴリズム、複雑性理論などのトピック
 Human-Computer Interaction: ユーザーインターフェース、ユーザビリティ、対話デザインなどのトピック
+
+```zsh
+# new post
+bundle exec jekyll page "My New Page"
+# draft
+bundle exec jekyll draft "My new draft"
+# draft rename
+bundle exec jekyll rename _drafts/my-new-draft.md "My Renamed Draft"
+# specify a specific date on which to publish it
+bundle exec jekyll publish _drafts/my-new-draft.md --date 2014-01-24
+# specify a custom format for the date attribute in the yaml front matter
+bundle exec jekyll publish _drafts/my-new-draft.md --timestamp-format "%Y-%m-%d %H:%M:%S %z"
+# Unpublish your post using
+bundle exec jekyll unpublish _posts/2014-01-24-my-new-draft.md
+```
