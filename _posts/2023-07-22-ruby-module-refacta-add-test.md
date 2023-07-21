@@ -4,7 +4,7 @@ title: Ruby モジュールのリファクタリングとテストの追加
 description:
 category: Engineering
 tags: Software ruby test
-date: 2023-07-22 00:00 +0000
+date: 2023-07-22 00:01 +0000
 ---
 ## 目次
 
