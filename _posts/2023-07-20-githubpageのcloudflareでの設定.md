@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloudflare設定変更によるリダイレクトループエラーの解決
-category: development
 image: "/assets/images/image.png"
-tags: error githubPage cloudflare DNS SSL/TLS
+categories: Engineering
+tags: Networks error githubPage cloudflare DNS SSL/TLS
 date: 2023-07-19 00:00 +0000
 ---
 ![Alt text](/assets/images/image.png)

@@ -7,8 +7,6 @@ class MetadataHandler
         "title" => title,
         "date" => date,
         }
-
-        # メタデータをYAMLフォーマットに変換
-        yaml_front_matter = metadata.map { |k, v| "#{k}: #{v}" }.join("\\n")
+        metadata
     end
 end

@@ -5,6 +5,5 @@ class TitleUpdater
         File.open(generated_finished_path, 'a') do |file|
         file.puts title
         end
-        title
     end
 end

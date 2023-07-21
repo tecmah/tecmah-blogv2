@@ -8,7 +8,7 @@ require_relative 'title_updater'
 
 title = TitleHandler.get_title
 
-prompt = OpenaiClient.generate_prompt(title)
+content = OpenaiClient.generate_prompt(title)
 
 # 認証まわりを整えるため一旦、コメントアウト
 # translated_title = GoogleTranslate.translate(title) 

@@ -2,7 +2,8 @@
 layout: post
 title: JekyllとGithub pageでBLOGをリニューアル
 date: 2023-07-15 13:40 +0900
-tag: update
+categories: Engineering
+tags: blog Jekyll Githubpage ruby
 ---
 
 # JekyllとGithub pageで爆速で三年放置したBLOGをリニューアル

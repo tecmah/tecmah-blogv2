@@ -1,8 +1,8 @@
 ---
 layout: post
 title: zshrcで設定はもう嫌だ！
-category: development news
-tags:
+category: Engineering
+tags: zsh env shell
 date: 2023-07-16 00:00 +0000
 ---
 
