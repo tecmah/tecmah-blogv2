@@ -2,8 +2,8 @@
 layout: post
 title: Chromeのタブ管理拡張機能：あなたのブラウジング体験を向上させる6つのタブ管理ツール
 description: この記事ではChromeのタブの管理に悩んでる人の為に拡張ツールを紹介しています。
-category: development
-tags: chrome Tab管理
+category: Engineering
+tags: Software chrome Tab管理
 date: 2023-07-22 02:52 +0900
 ---
 # Chromeのタブ管理拡張機能：あなたのブラウジング体験を向上させる6つのツール
