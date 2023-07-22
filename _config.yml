@@ -57,6 +57,12 @@ header_pages:
   - menu/about.md
   - menu/contact.html
 
+# sidever pages 
+index_page_path: "index.html"
+archive_path: "/menu/archives.html"
+categories_path: "/menu/categories.html"
+tags_path: "/menu/tags.html"
+
 google_form:
   url: GOOGLE_FORM_URL
   name_entry: "entry.1199157498"
