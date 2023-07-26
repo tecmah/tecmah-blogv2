@@ -58,7 +58,7 @@ header_pages:
   - menu/contact.html
 
 # google_adsense
-google_adsense_client: GOOGLE_ADSENSE_CLIENT_ID
+google_adsense_client: ca-pub-6202067789945516
 
 # sidever pages 
 index_page_path: "index.html"
@@ -67,7 +67,7 @@ categories_path: "/menu/categories.html"
 tags_path: "/menu/tags.html"
 
 google_form:
-  url: GOOGLE_FORM_URL
+  url: https://docs.google.com/forms/u/0/d/e/1FAIpQLSfZcGWu5ISan2WjmzWme3Om_th0yXnnfa4jcG8SyejGpCYWOQ/formResponse
   name_entry: "entry.1199157498"
   email_entry: "entry.923332370"
   subject_entry: "entry.1032018857"
