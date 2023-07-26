@@ -57,6 +57,9 @@ header_pages:
   - menu/about.md
   - menu/contact.html
 
+# google_adsense
+google_adsense_client: GOOGLE_ADSENSE_CLIENT_ID
+
 # sidever pages 
 index_page_path: "index.html"
 archive_path: "/menu/archives.html"
