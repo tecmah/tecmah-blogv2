@@ -55,7 +55,7 @@ Human-Computer Interaction: ユーザーインターフェース、ユーザビ�
 
 ```zsh
 # new post
-bundle exec jekyll page "My New Page"
+bundle exec jekyll post "My New Page"
 # draft
 bundle exec jekyll draft "My new draft"
 # draft rename
