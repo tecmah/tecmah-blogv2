@@ -44,6 +44,19 @@ sitemap: true
 # theme_color: "#ffffff"
 theme_color: snowwhite
 
+# Night/Dark mode
+# Default mode is "auto", "auto" is for auto nightshift
+# (19:00 - 07:00), "manual" is for manual toggle, and
+# "on/off" is for default on/off.
+#
+# Whatever the user's choice is, it will supersede the
+# default setting of the site and be kept during the
+# visit (session). Only the dark mode setting is"manual",
+# it will be always kept on every visit (i.e. no matter
+# the browser is closed or not)
+#
+night_mode: "manual"
+
 # If you want to change the content width, you can set to another value
 content_width: "1200px"
 
