@@ -2,6 +2,7 @@
 layout: post
 title: Googleカレンダーで予約システムを使えるようになった、
 date: 2023-07-22 12:22 +0900
+image: "/assets/images/2023-07-22-google-calender-resevation/image.png"
 description:
 category: General
 tags: Software Google Calender Resevation
@@ -9,7 +10,6 @@ tags: Software Google Calender Resevation
 
 ![Alt text](/assets/images/2023-07-22-google-calender-resevation/image.png)
 
-はじめに
 
 Googleカレンダーで、以前はお金を払わなくては作成できなかった、予約スケジュールが使用できるようになりました。
 なお、個人アカウントの場合は予約ページを一つ作成して予約を受け付けることができますが、それ以上は増やせません。
