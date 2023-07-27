@@ -33,7 +33,7 @@ tags: Manga Anime
 この巻では、映像研のメンバーたちがコンテスト優勝を目指し、声優探しに動き出します。
 オーディションには“七色の声の持ち主”が現れ、物語は新たな展開を見せます。
 
-![Alt text](../assets/images/2023-07-27-eizoukennihatewodasuna-6/image-3.png)
+![Alt text](/assets/images/2023-07-27-eizoukennihatewodasuna-6/image-3.png)
 
 ## ジャンル
 
