@@ -1,6 +1,6 @@
 ---
 layout: post
-title: eizoukennihatewodasuna-6
+title: 映像研には手を出すな！第6巻
 date: 2023-07-27 22:07 +0900
 description:
 category: Kindle
@@ -8,7 +8,6 @@ tags: Manga Anime
 ---
 
 ![Alt text](/assets/images/2023-07-27-eizoukennihatewodasuna-6/image.png)
-
 
 映像制作をテーマにした革新的なマンガ、『映像研には手を出すな！』の第6巻を紹介します。
 この作品は、映像制作の魅力を描き出し、読者をその世界に引き込む力があります。
