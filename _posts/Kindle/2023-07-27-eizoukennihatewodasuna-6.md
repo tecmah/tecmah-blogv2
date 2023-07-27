@@ -21,7 +21,7 @@ tags: Manga Anime
 
 ![Alt text](/assets/images/2023-07-27-eizoukennihatewodasuna-6/image-1.png)
 
-[アニメOP](https://www.youtube.com/watch?v=DDD46sZN3JY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DDD46sZN3JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## タイトルと著者
 
