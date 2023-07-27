@@ -7,7 +7,7 @@ category: Kindle
 tags: WebWriting Business
 ---
 
-![Alt text](../assets/images/2023-07-27-web-whiting-all/image.png)
+![Alt text](/assets/images/2023-07-27-web-whiting-all/image.png)
 
 Webライティングのスキルを磨きたいあなたへ、一冊の本を紹介します。
 その名も『マクサン式Webライティング実践スキル大全』。この本を読めば、Webライティングの全スキルが身につくこと間違いなしです。
@@ -27,7 +27,7 @@ Webライティングのスキルを磨きたくて、色々な本を探して�
 この本は、Webライティングの全スキルを網羅した一冊です。
 ブログ活用法、キーワード選定、SEO対策、コンテンツ戦略、E-A-T強化、収益化テクなど、Webライティングに必要な知識とノウハウが詰まっています。
 
-![Alt text](../assets/images/2023-07-27-web-whiting-all/image-1.png)
+![Alt text](/assets/images/2023-07-27-web-whiting-all/image-1.png)
 
 
 ## ジャンル
@@ -40,7 +40,7 @@ Webライティングのスキルを磨きたくて、色々な本を探して�
 具体的な事例や実践例を通じて、Webライティングのスキルを身につけることができます。
 また、著者自身の経験も織り交ぜられており、リアルな知識を得ることができます。
 
-![Alt text](../assets/images/2023-07-27-web-whiting-all/image-2.png)
+![Alt text](/assets/images/2023-07-27-web-whiting-all/image-2.png)
 
 ## 作者について
 

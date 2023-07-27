@@ -1003,7 +1003,6 @@ jyuubaifannwoatumerusutooriiraitelinngunonanatunogokui: anatanokinndorugadokusya
 Writing side business writing-books (Japanese Edition)
 一生使える見やすい資料のデザイン入門 (Japanese Edition)
 図解 コンサル一年目が学ぶこと (Japanese Edition)
-映像研には手を出すな！（６） (ビッグコミックス) (Japanese Edition)
 映像研には手を出すな！（８） (ビッグコミックス) (Japanese Edition)
 映像研には手を出すな！（７） (ビッグコミックス) (Japanese Edition)
 ChatGPT Super Practical Usage: 10 ways to use it seriously in the business scene ChatGPT IT Technology (AI technology technology artificial intelligence) (Japanese Edition)
