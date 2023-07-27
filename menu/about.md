@@ -7,7 +7,7 @@ Hello everyone 👋
 
 Welcome to my blog! 🌟
 
-I'm a business owner and an engineer, proudly representing Japan with bases in Tokyo 🗼, Sapporo 🏔️, and Gunma 🌸.
+I am a business owner and engineer based in Tokyo 🗼, Sapporo 🏔️, and Gunma 🌸, Japan.
 
 My engineering journey began when I built my own PC and dived into creating video games 🎮. The excitement and creativity of those moments ignited my passion for programming and technology. Since then, I've been on a thrilling quest of continuous learning, challenges, and growth! 🚀
 
