@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 湘南爆走族１
+title: 湘南爆走族　（電子書籍版）　１ (Japanese Edition)
 date: 2023-07-27 14:10 +0900
 description:
 category: Kindle
-tags: Manga 
+tags: Manga 湘南爆走族 吉田聡
 ---
 
 ![Alt text](/assets/images/2023-07-27-kindle-syobaku-1/image.png)
@@ -42,13 +42,14 @@ tags: Manga
 
 吉田聡は、『湘南爆走族』などの作品で知られる漫画家です。彼の作品は、青春の熱さと冒険心を描くことで読者から高い評価を受けています。
 
-
 ![Alt text](/assets/images/2023-07-27-kindle-syobaku-1/image-2.png)
+
 ## 感想と評価
 
 『湘南爆走族』は、その独特な世界観とキャラクターたちの魅力で読者を引きつけます。物語は、湘南海岸を駆け抜ける5人の若者たちの冒険を描いており、その熱い青春の日々は読者を物語の世界に引き込みます。また、吉田聡の描くキャラクターたちは、それぞれに魅力的で、読者は彼らの成長と冒険を通じて自身の青春を思い出すことができます。
 
 ![Alt text](/assets/images/2023-07-27-kindle-syobaku-1/image-3.png)
+
 ## 他の読者の感想
 
 他の読者からも高い評価を受けています。一部のレビューを引用します：

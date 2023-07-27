@@ -960,7 +960,6 @@ Unnamed Memory I　青き月の魔女と呪われし王 (電撃の新文芸) (Ja
 ああっ女神さまっ（２） (アフタヌーンコミックス) (Japanese Edition)
 湘南爆走族　（電子書籍版）　３ (Japanese Edition)
 湘南爆走族　（電子書籍版）　４ (Japanese Edition)
-湘南爆走族　（電子書籍版）　１ (Japanese Edition)
 湘南爆走族　（電子書籍版）　５ (Japanese Edition)
 湘南爆走族　（電子書籍版）　２ (Japanese Edition)
 湘南爆走族　（電子書籍版）　６ (Japanese Edition)
