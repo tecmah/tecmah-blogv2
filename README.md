@@ -48,3 +48,6 @@ gh run list --workflow=jekyll.yml
 
 ## GithubPageの設定
 
+
+
+ruby app/models/main.rb app/prompt/kindle.md 

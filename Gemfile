@@ -33,7 +33,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 group :development, :test do
-  gem 'rspec', '~> 2.1'
+  gem 'rspec', '~> 3.12'
 end
 
 # Performance-booster for watching directories on Windows

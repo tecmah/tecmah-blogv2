@@ -4,7 +4,7 @@ title: 映像研には手を出すな！第6巻
 date: 2023-07-27 22:07 +0900
 description:
 category: Kindle
-tags: Manga Anime 
+tags: Manga Anime 映像研には手を出すな！
 ---
 
 ![Alt text](/assets/images/2023-07-27-eizoukennihatewodasuna-6/image.png)
@@ -67,6 +67,7 @@ tags: Manga Anime
 
 ![Alt text](/assets/images/2023-07-27-eizoukennihatewodasuna-6/image-2.png)
 ![Alt text](/assets/images/2023-07-27-eizoukennihatewodasuna-6/image-4.png)
+
 ## 他の読者の感想
 
 他の読者からも高い評価を受けています。一部のレビューを引用します：

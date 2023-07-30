@@ -1,9 +1,11 @@
-require 'google/cloud/translate'
+require 'optparse'
+require 'google/cloud/translate/v2'
 
-class GoogleTranslate
-    def self.translate(title)
-        # Google Cloud Translate APIを使って日本語のタイトルを英語に翻訳
-        translate = Google::Cloud::Translate.new(project: ENV["GOOGLE_CLOUD_PROJECT_ID"])
-        translation = translate.translate text, to: "en"
-    end
+def translate
+  project_id = ENV['GOOGLE_CLOUD_PROJECT_ID']
+  key = ENV['GOOGLE_TRANSLATE_KEY']
+  translate = Google::Cloud::Translate::V2.new
 end
+  
+    translation = translate.translate "Hello world!", to: "la"
+    puts translation
