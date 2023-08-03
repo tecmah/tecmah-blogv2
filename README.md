@@ -50,4 +50,5 @@ gh run list --workflow=jekyll.yml
 
 
 
+ruby app/models/main.rb app/prompt/General.md 
 ruby app/models/main.rb app/prompt/kindle.md 

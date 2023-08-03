@@ -1,4 +1,5 @@
 require 'openai'
+require 'json'
 
 class OpenaiClient
 
@@ -14,20 +15,24 @@ class OpenaiClient
     end
 
     def self.generate_content(title, prompt)
-
-
         # OpenAIクライアントの初期化
         client = OpenAI::Client.new(access_token: ENV['OPENAI_API_KEY'])
 
+        # プロンプト内の '#{title}' を title 引数の値で置換
+        prompt = prompt.gsub('#{title}', title)
+    
         # OpenAI APIを使って文章を生成
         response = client.chat(
-            parameters: {
-                model: "gpt-4",
-                messages: [{ role: "user", content: prompt}],
-                temperature: 0.7,
-            })
-
+          parameters: {
+            model: "gpt-3.5-turbo",
+            messages: [
+              { role: "user", content: prompt }
+            ],
+            temperature: 0.7,
+          }
+        )
+    
         # OpenAIからのレスポンスをcontentに格納
         content = response.dig("choices", 0, "message", "content")
+      end
     end
-end

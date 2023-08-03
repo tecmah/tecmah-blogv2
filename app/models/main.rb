@@ -1,7 +1,6 @@
 require 'logger'
 require_relative 'title_handler'
 require_relative 'openai_client'
-require_relative 'google_translate'
 require_relative 'filename_generator'
 require_relative 'metadata_handler'
 require_relative 'markdown_file_generator'
@@ -20,6 +19,9 @@ log.debug(prompt_path + "を読み込みます")
 # promptの読み込み
 prompt = OpenaiClient.generate_prompt(prompt_path)
 
+# プロンプト内の '#{title}' を title 引数の値で置換
+prompt = prompt.gsub('#{title}', title)
+
 log.debug(prompt)
 
 # contextの生成
@@ -35,8 +37,13 @@ log.debug(content)
 # filename = FilenameGenerator.generate_filename(translated_title)
 filename = FilenameGenerator.generate_filename(title)
 
+log.debug(title)
 # メタデータの生成
 metadata = MetadataHandler.generate(title)
+
+log.debug(metadata[:title])
+
+puts "metadata before MarkdownFileGenerator.generate: #{metadata}"
 
 # ファイルの生成
 MarkdownFileGenerator.generate(metadata, content)

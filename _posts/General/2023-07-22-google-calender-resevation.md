@@ -98,7 +98,7 @@ Googleのトップページからメニューを表示してGoogleのカレン�
 右上にある共有の青いボタンを押すと
 予約ページを共有する画面が表示されます。
 
-![Alt text](../assets/images/2023-07-22-google-calender-resevation/image-7.png)
+![Alt text](/assets/images/2023-07-22-google-calender-resevation/image-7.png)
 
 予約できる形式は**リンク、Webサイトへの埋め込み**で行えます。
 

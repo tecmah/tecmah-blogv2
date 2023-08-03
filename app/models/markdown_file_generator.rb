@@ -4,7 +4,8 @@ class MarkdownFileGenerator
         # メタデータをYAMLフォーマットに変換
         yaml_front_matter = metadata.map { |k, v| "#{k}: #{v}" }.join("\\n")
 
-        title = metadata[:title]
+        title = metadata["title"]
+
         # titleがnilでないことを確認
         if title.nil?
           raise ArgumentError, "metadata[:title] cannot be nil"

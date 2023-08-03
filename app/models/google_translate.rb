@@ -1,5 +1,5 @@
-require 'optparse'
-require 'google/cloud/translate/v2'
+# require 'optparse'
+# require 'google/cloud/translate/v2'
 
 def translate
   project_id = ENV['GOOGLE_CLOUD_PROJECT_ID']

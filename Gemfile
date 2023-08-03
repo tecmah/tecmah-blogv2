@@ -46,7 +46,10 @@ gem "webrick", "~> 1.8"
 
 gem "dotenv" # .env
 gem "ruby-openai"
+gem 'faraday', '~> 1.0' # openAI
+gem 'faraday_middleware', '~> 1.0' # openAI
+
 gem 'google-cloud-translate'
 gem 'signet' # Google API
 gem 'googleauth' # Google API
-
+# gem 'google-cloud-translate-v2' # Google API
