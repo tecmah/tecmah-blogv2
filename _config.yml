@@ -132,7 +132,8 @@ jekyll_compose:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - app/*
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
