@@ -34,6 +34,7 @@ end
 
 group :development, :test do
   gem 'rspec', '~> 3.12'
+  gem 'solargraph'
 end
 
 # Performance-booster for watching directories on Windows
@@ -53,3 +54,4 @@ gem 'google-cloud-translate'
 gem 'signet' # Google API
 gem 'googleauth' # Google API
 # gem 'google-cloud-translate-v2' # Google API
+

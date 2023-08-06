@@ -46,7 +46,8 @@ log.debug(metadata[:title])
 puts "metadata before MarkdownFileGenerator.generate: #{metadata}"
 
 # ファイルの生成
-MarkdownFileGenerator.generate(metadata, content)
+MarkdownFileGenerator.generate(metadata, content, filename)
+
 TitleUpdater.update(title)
 
 log.debug(filename + "を生成しました")
