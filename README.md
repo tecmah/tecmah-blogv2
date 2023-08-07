@@ -55,12 +55,7 @@ ruby app/models/main.rb app/prompt/kindle.md
 
 
 # 開発環境
+
 本番ビルドはlinux　開発はMacなので以下を追加してGemfile.lockを追加してます。
 bundle lock --add-platform x86_64-linux
-
-if RUBY_PLATFORM =~ /darwin/
-  gem 'some_mac_specific_gem'
-elsif RUBY_PLATFORM =~ /linux/
-  gem 'some_linux_specific_gem'
-end
 

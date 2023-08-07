@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Googleカレンダーで予約システムを使えるようになった、
+title: Googleカレンダーで予約システムを使えるようになった
 date: 2023-07-22 12:22 +0900
 image: "/assets/images/2023-07-22-google-calender-resevation/image.png"
 description:

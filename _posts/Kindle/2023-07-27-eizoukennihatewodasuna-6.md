@@ -7,7 +7,7 @@ category: Kindle
 tags: Manga Anime 映像研には手を出すな！
 ---
 
-![Alt text](/assets/images/2023-07-27-eizoukennihatewodasuna-6/image.png)
+<a href="https://www.amazon.co.jp/%E6%98%A0%E5%83%8F%E7%A0%94%E3%81%AB%E3%81%AF%E6%89%8B%E3%82%92%E5%87%BA%E3%81%99%E3%81%AA-6-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%A4%A7%E7%AB%A5-%E6%BE%84%E7%9E%B3/dp/4098611562?&linkCode=li3&tag=tecmah-22&linkId=f99b844353efabc389b009b3de165bea&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4098611562&Format=_SL450_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tecmah-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=tecmah-22&language=ja_JP&l=li3&o=9&a=4098611562" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 映像制作をテーマにした革新的なマンガ、『映像研には手を出すな！』の第6巻を紹介します。
 この作品は、映像制作の魅力を描き出し、読者をその世界に引き込む力があります。
@@ -19,7 +19,6 @@ tags: Manga Anime 映像研には手を出すな！
 そして、その魅力に取り憑かれ、6巻まで読み進めることになりました。
 アニメ化もしてそのOPを湯浅政明監督が書いたことは記憶に新しいです。
 
-![Alt text](/assets/images/2023-07-27-eizoukennihatewodasuna-6/image-1.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DDD46sZN3JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -32,8 +31,6 @@ tags: Manga Anime 映像研には手を出すな！
 
 この巻では、映像研のメンバーたちがコンテスト優勝を目指し、声優探しに動き出します。
 オーディションには“七色の声の持ち主”が現れ、物語は新たな展開を見せます。
-
-![Alt text](/assets/images/2023-07-27-eizoukennihatewodasuna-6/image-3.png)
 
 ## ジャンル
 
@@ -56,8 +53,6 @@ tags: Manga Anime 映像研には手を出すな！
 大童 澄瞳は、独特の世界観とキャラクター描写で知られるマンガ家です。『映像研には手を出すな！』は彼の代表作で、多くの読者から支持を受けています。
 作品を通して構図が独特な作家でもあり、漫画のルールの中で映像作品的な作り方をしたカットが多くみられます。
 
-![Alt text](/assets/images/2023-07-27-eizoukennihatewodasuna-6/image-5.png)
-
 ## 感想と評価
 
 『映像研には手を出すな！（６）』は、映像制作の魅力を深く描き出した作品です。
@@ -65,8 +60,6 @@ tags: Manga Anime 映像研には手を出すな！
 今回は声優と小説家志望の新キャラが加入したこともいい展開でしたが、ライバルとして
 他校の生徒の作品が出てきたことで、主人公たちの活動に盛り上がりがあるのも見どころです。
 
-![Alt text](/assets/images/2023-07-27-eizoukennihatewodasuna-6/image-2.png)
-![Alt text](/assets/images/2023-07-27-eizoukennihatewodasuna-6/image-4.png)
 
 ## 他の読者の感想
 
