@@ -1,7 +1,8 @@
 ---
 layout: post
 title: VScodeでRubyのコードを保管
-category: Engineering　VScode Ruby
+category: Engineering
+tags: VScode Ruby
 date: 2023-08-06 16:12:37 +0900
 ---
 
