@@ -19,8 +19,7 @@ Rubyのコードを保管するためにVScodeを使うことで、効率的に�
 2. [VScodeの基本的な使い方](#vscodeの基本的な使い方)
 3. [Rubyの拡張機能の導入](#rubyの拡張機能の導入)
 4. [Rubyのコードを保管する方法](#rubyのコードを保管する方法)
-5. [デバッグ機能の活用](#デバッグ機能の活用)
-6. [最後に](#最後に)
+5. [最後に](#最後に)
 
 ## VScodeのインストール<a name="vscodeのインストール"></a>
 
@@ -137,8 +136,7 @@ gem install solargraphを実施し、solargraphをインストールします。
 
 機能を使えるように、VSCodeのUserSettings.jsonに対してsolargraphの設定を入力します。
 
-
-```
+```json
 {
   //solargraph setting
   "ruby.intellisense": "rubyLocate",
@@ -147,6 +145,8 @@ gem install solargraphを実施し、solargraphをインストールします。
   "solargraph.diagnostics": true
 }
 ```
+
+これで一通りの設定は終了です。
 
 ## 最後に<a name="最後に"></a>
 
@@ -159,7 +159,6 @@ VScodeは使いやすく、多機能なため、Rubyの開発において非常�
 最後までお読みいただきありがとうございました。
 もし、質問やご意見がありましたら、お気軽にお知らせください。
 また、私のTwitterアカウントをフォローして、最新の技術情報をチェックしてください。それでは、楽しいRubyプログラミングライフをお過ごしください！✨
-　
 
 参考にした記事:
 

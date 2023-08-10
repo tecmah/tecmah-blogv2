@@ -1,12 +1,12 @@
 ---
 layout: post
 title: VScodeでRubyのコードを保管
-category: Engineering　VScode Ruby
+category: Software
+tags: VScode Ruby
 date: 2023-08-06 16:12:37 +0900
 ---
 
 ![Alt text](/assets/images/2023-07-29-vscode-ruby/image.png)
-
 
 こんにちは、Rubyプログラマーの皆さん！今回は、VScodeを使ってRubyのコードを保管する方法についてご紹介します。
 VScodeはパワフルなテキストエディタで、素晴らしい機能や使いやすさで人気です。
@@ -49,7 +49,6 @@ VScodeのインストールは非常に簡単です。以下の手順に従っ�
 
 ...それだけで、あなたもVScodeの世界へ飛び込むことができます！
 
-
 ## VScodeの基本的な使い方<a name="vscodeの基本的な使い方"></a>
 
 VScodeの基本的な使い方を見ていきましょう。VScodeはシンプルなデザインですが、多くの機能を備えています。
@@ -57,7 +56,8 @@ VScodeの基本的な使い方を見ていきましょう。VScodeはシンプ�
 
 ## Rubyの拡張機能の導入<a name="rubyの拡張機能の導入"></a>
 
-VScodeの魅力は、そのカスタマイズ性にあります。特に、Rubyをより効率的に扱うための拡張機能は非常に便利です。この記事では、VScodeでRubyを快適に使うための拡張機能の導入方法をご紹介します。さあ、Rubyの魔法を一緒に学びましょう！
+VScodeの魅力は、そのカスタマイズ性にあります。特に、Rubyをより効率的に扱うための拡張機能は非常に便利です。
+この記事では、VScodeでRubyを快適に使うための拡張機能の導入方法をご紹介します。さあ、Rubyの魔法を一緒に学びましょう！
 
 ---
 
@@ -97,7 +97,7 @@ gem install solargraphを実施し、solargraphをインストールします。
 
 **3.VSCode「UserSettings.json」の設定**
 
-```
+```json
 {
   //solargraph setting
   "ruby.intellisense": "rubyLocate",
@@ -124,7 +124,6 @@ VScodeは使いやすく、多機能なため、Rubyの開発において非常�
 最後までお読みいただきありがとうございました。
 もし、質問やご意見がありましたら、お気軽にお知らせください。
 また、私のTwitterアカウントをフォローして、最新の技術情報をチェックしてください。それでは、楽しいRubyプログラミングライフをお過ごしください！✨
-　
 
 参考にした記事:
 
