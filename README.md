@@ -7,6 +7,7 @@ Hexoで構築しましたが、githubpageによる運用が大変になってき
 作り直しました
 
 ## blog記事作成のコマンド
+
 [Jekyll::Compose 公式](https://github.com/jekyll/jekyll-compose)
 
 ```zsh
@@ -48,14 +49,14 @@ gh run list --workflow=jekyll.yml
 
 ## GithubPageの設定
 
+## AI Command
 
-
+```zsh
 ruby app/models/main.rb app/prompt/General.md 
 ruby app/models/main.rb app/prompt/kindle.md 
-
+```
 
 # 開発環境
 
-本番ビルドはlinux　開発はMacなので以下を追加してGemfile.lockを追加してます。
+本番ビルドはlinux　開発はMacなので以下を追加してGemfile.lockを定義してます。
 bundle lock --add-platform x86_64-linux
-
