@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: TECMAH BLOG V2
-email: info.tecmah@google.com
+email: &#105;&#110;&#102;&#111;&#46;&#116;&#101;&#99;&#109;&#97;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109; #HTML Entity
 author: TECMAH
 copyright: Copyright © 2023
 description: >- # this means to ignore newlines until "baseurl:"
@@ -35,7 +35,7 @@ twitter_username: onlyos
 github_username:  maurayonori
 
 google_site_verification: Hwkbghj0ak6cDfhDUUsiG6RLJWnvcuEGc27qHdzhqtY
-google_analytics: G-HQVQ2Z5P7J
+google_analytics: G-ZDBEM15KK6
 enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
@@ -91,6 +91,9 @@ google_form:
 # Pagenation setting
 paginate: 10 
 
+# Translate languges
+# translate_langs: []
+
 # Disqus comments
 # disqus:
 #   shortname: "yostecmahmt"
@@ -131,6 +134,11 @@ jekyll_compose:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
+
+markdown: kramdown
+kmarkdown:
+  input: GFM
+
 #
 exclude:
   - app/*
