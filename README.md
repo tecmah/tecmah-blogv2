@@ -56,6 +56,8 @@ ruby app/models/main.rb app/prompt/General.md
 ruby app/models/main.rb app/prompt/kindle.md 
 ```
 
+# イメージの最適化
+
 # 開発環境
 
 本番ビルドはlinux　開発はMacなので以下を追加してGemfile.lockを定義してます。
