@@ -42,7 +42,7 @@ Jekyll公式の解説に沿ってインストールしてください。
 
 bundle exec jekyll serve
 
-# github Action　test
+## github Action　test
 
 gh workflow run jekyll.yml --ref main
 gh run list --workflow=jekyll.yml
@@ -57,6 +57,10 @@ ruby app/models/main.rb app/prompt/kindle.md
 ```
 
 # イメージの最適化
+../../asetts
+画像をコピーすると自動的にasetts/imagesの配下に画像をアップロードする設定(VSCode)
+右クリックComplass imageで行える。
+https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images
 
 # 開発環境
 
