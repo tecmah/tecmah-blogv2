@@ -44,8 +44,10 @@ bundle exec jekyll serve
 
 ## github Action　test
 
+```zsh
 gh workflow run jekyll.yml --ref main
 gh run list --workflow=jekyll.yml
+```
 
 ## GithubPageの設定
 
@@ -56,13 +58,14 @@ ruby app/models/main.rb app/prompt/General.md
 ruby app/models/main.rb app/prompt/kindle.md 
 ```
 
-# イメージの最適化
+## イメージの最適化
+
 ../../asetts
 画像をコピーすると自動的にasetts/imagesの配下に画像をアップロードする設定(VSCode)
 右クリックComplass imageで行える。
 https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images
 
-# 開発環境
+## 開発環境
 
 本番ビルドはlinux　開発はMacなので以下を追加してGemfile.lockを定義してます。
 bundle lock --add-platform x86_64-linux

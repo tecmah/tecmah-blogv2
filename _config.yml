@@ -116,12 +116,16 @@ jekyll_compose:
   default_front_matter:
     drafts:
       description:
-#      image:
+      bunner:
+        image: "/assets/images/newbusinessflowchart/pro.png)"
+        opacity: 0.9
       category: Engineering/General/Philosophy/History/Social Sciences/Natural Sciences/Applied Sciences/Arts/Sports/Health and Medicine/Language and Literature/Culture and Education/Geography, History, and Biography/Kindle
       tags: Hardware/Software/Network/Security/Software Engineering/Information Systems/Artificial Intelligence/Theory of Computation/Human-Computer Interaction
     posts:
       description:
-      excerpt_image: /assets/images/20240114/2024-01-18ani.png
+      bunner:
+        image: "/assets/images/newbusinessflowchart/pro.png)"
+        opacity: 0.9
       category: Engineering/General/Philosophy/History/Social Sciences/Natural Sciences/Applied Sciences/Arts/Sports/Health and Medicine/Language and Literature/Culture and Education/Geography, History, and Biography/Kindle
       tags: Hardware/Software/Network/Security/Software Engineering/Information Systems/Artificial Intelligence/Theory of Computation/Human-Computer Interaction
 
