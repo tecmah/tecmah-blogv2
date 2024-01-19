@@ -2,16 +2,16 @@
 layout: post
 title: NewBusinessFlowchart
 description:
-bunner:
-  image: "/assets/images/newbusinessflowchart/pro.png"
-  opacity: 0.9
+banner:
+  image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/df75cda0-2388-4583-b6b6-9615193f008e
+  opacity: 0.3
 category: Business and Management
 tags:
-- Entrepreneurship
-- Market Research
-- Business Strategy
-- Product Development
-- Innovation
+  - Entrepreneurship
+  - Market Research
+  - Business Strategy
+  - Product Development
+  - Innovation
 date: '2024-01-19 14:28:18 +0900'
 ---
 私はフリーランスでIT関連の新規事業の創出を行なっています。
