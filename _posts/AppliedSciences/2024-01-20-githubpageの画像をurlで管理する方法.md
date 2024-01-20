@@ -2,7 +2,7 @@
 layout: post
 title: GithubPageの画像をURLで管理する方法
 description:
-bunner:
+banner:
   image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/93c48db4-fb63-4c56-96d1-359d7ea52627
   opacity: 0.3
 category: AppliedSciences

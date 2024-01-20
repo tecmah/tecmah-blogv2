@@ -2,7 +2,7 @@
 layout: post
 title: インフォグラフィックを簡単に作ってブログを改善する。
 description:
-bunner:
+banner:
   image: "/assets/images/newbusinessflowchart/pro.png)"
   opacity: 0.9
 category: Engineering/General/Philosophy/History/Social Sciences/Natural Sciences/Applied
