@@ -1,6 +1,9 @@
 ---
 layout: post
 title: おっぱいの形の放物線を作ってみた：物理学とコンピュータ・プログラミングの出会い
+banner:
+  image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/465604f4-17ed-4369-a7af-fd9e797bcd1d
+  opacity: 0.3
 categories: Software
 tags: program
 date: 2023-07-16 23:03:24 +0900
@@ -11,6 +14,7 @@ date: 2023-07-16 23:03:24 +0900
 もちろん、この記事は微妙なテーマを扱っていますが、不快感を与えないよう、敬意を持って情報を提供します。では、始めましょう。
 
 ## 物理学の視点から考える
+
 物理学の視点からおっぱいを考えると、おっぱいは基本的に流体力学と力学の原則に従います。
 
 1.力学的特性：おっぱいは基本的には流体（脂肪組織）と固体（腺組織、筋肉）の複合体であり、その形状は重力、筋肉の力、ブラジャーなどの外部支持によって決定されます。
@@ -25,6 +29,7 @@ date: 2023-07-16 23:03:24 +0900
 4.熱力学とエネルギー転送：おっぱいは体温を保つために重要な役割を果たします。また、授乳中はカロリーを消費して乳を生産し、熱を発生します。このエネルギー転送と熱の発生・放出は、熱力学の原則に従います。
 
 私の力では全てを表現することは難しいでしょうが、放物線で表現するところから始めましょう。
+
 ### 何故放物線なのか？
 
 まずは、なぜおっぱいの形が放物線で近似できると考えたのか説明します。これは物理学の基本的な法則に由来します。
@@ -129,7 +134,7 @@ plt.show()
 Pythonでは`matplotlib`と`numpy`を利用して、放物線のプロットを行っています。
 
 
-![two_breasts_curve_small_nipple](assets/images/two_breasts_curve_small_nipple.png)
+![two_breasts_curve_small_nipple](https://github.com/tecmah/tecmah-blogv2/assets/11237144/2109d18c-551c-4d29-ac38-ec9cb24adb62)
 
 ## まとめ：放物線の魅力と物理学の原理
 
@@ -141,9 +146,11 @@ Pythonでは`matplotlib`と`numpy`を利用して、放物線のプロットを�
 
 
 ## 世の中にHENTAIの天才は既にいる
+
 この記事を書いた後にgoogleで検索をしてみたところ
 すごいのがありました
 しかも動く・・・・
 
-![Alt text](assets/images/image2.png)
+![Alt text](https://github.com/tecmah/tecmah-blogv2/assets/11237144/40750872-b3d5-4745-937d-5ba8768f175c)
+
 [リンク](https://www.desmos.com/calculator/i05puaquwh?lang=ja)

@@ -1,25 +1,38 @@
 ---
 layout: post
-title: JekyllとGithub pageでBLOGをリニューアル
+title: ブログの書き方
 tag: update
 ---
 
 
-# ai blog create
-ruby app/models/main.rb
+## 記事を書く内容を見つける
+
+    https://clm.seojapan.com/4659
+    まだ書いてない書籍のレビュー
 
 
-# asciinema
+## ai blog create
 
-## rec
-asciinema rec 
+ruby app/models/main.rb app/prompt/General.md
+ruby app/models/main.rb app/prompt/Kindle.md
+
+あくまで下書き程度に使うこと、内容の精査が必要であり
+ブログの記述の型のテンプレートを向上してみやすくわかりやすい記事を書くためのサポートツール
+
+## asciinema
+
+https://asciinema.org/
+ターミナルでのコマンドや実行結果を軽量かつ簡易に保存できる。
+
+### rec
+
+asciinema rec
 asciinema rec /Users/yono/Bild/blog/tecmah-blogv2/assets/ascinema/$(date +%Y%m%d%H%M%S).cast
 
-# play
+### play
 
 asciinema play /path/to/asciicast.cast
 asciinema rec filename.cast
-
 
 ## categoryの管理
 
@@ -40,6 +53,7 @@ asciinema rec filename.cast
 
 
 ## tag
+
 ### ACM Computing Classification System (ACM CCS)
 
 Hardware: コンピュータハードウェア、プロセッサ、メモリ、入出力デバイスなどのトピック
@@ -52,6 +66,8 @@ Information Systems: 情報システム、データベース、情報管理な�
 Artificial Intelligence: 人工知能、機械学習、知識処理などのトピック
 Theory of Computation: 計算理論、アルゴリズム、複雑性理論などのトピック
 Human-Computer Interaction: ユーザーインターフェース、ユーザビリティ、対話デザインなどのトピック
+
+## 記事のテンプレート作成
 
 ```zsh
 # new post
