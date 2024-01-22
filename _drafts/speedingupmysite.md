@@ -37,7 +37,12 @@ webpへの変換は以下のサイトを使います
 bannerやfaviconをpngで表示されているので修正します。
 ![image-2](https://cdn.discordapp.com/attachments/1198133923855732756/1199071931039760424/2024-01-23_4.22.42.webp?ex=65c135c2&is=65aec0c2&hm=d5ed808bf7fb805c3862936128a10d85f6e6fc8982d805d5cb501c62d1c01517&)
 
+### webpに変換した結果
 
+Webpに変換した結果パフォーマンスの値が**1**改善しました。
+わぁ・・・・たった1かぁ
+
+![image-3](https://cdn.discordapp.com/attachments/1198133923855732756/1199077866344808468/2024-01-23_4.45.51.webp?ex=65c13b49&is=65aec649&hm=f0937b976198239ed5228c2e3b926d5964854dba31d468e45d8a5ddca89d5eef&)
 
 ## Macで自動的にスクリーンショットをとる場合にwebpに変換する
 
