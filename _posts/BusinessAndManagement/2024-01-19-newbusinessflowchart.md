@@ -5,7 +5,7 @@ description:
 banner:
   image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/df75cda0-2388-4583-b6b6-9615193f008e
   opacity: 0.3
-category: Business and Management
+category: BusinessAndManagement
 tags:
   - Entrepreneurship
   - Market Research

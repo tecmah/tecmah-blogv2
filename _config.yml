@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.tecmah.com" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: "/assets/images/favicon/favicon.png" # the favicon for your site
+favicon: "/assets/images/favicon/favicon.webp" # the favicon for your site
 twitter_username: onlyos
 github_username:  maurayonori
 
@@ -120,15 +120,15 @@ jekyll_compose:
       banner:
         image: "/assets/images/newbusinessflowchart/pro.png)"
         opacity: 0.3
-      category: Engineering/General/Philosophy/History/Social Sciences/Natural Sciences/Applied Sciences/Arts/Sports/Health and Medicine/Language and Literature/Culture and Education/Geography, History, and Biography/Kindle
-      tags: Hardware/Software/Network/Security/Software Engineering/Information Systems/Artificial Intelligence/Theory of Computation/Human-Computer Interaction
+      category: Engineering/General/Philosophy/History/Social Sciences/Natural Sciences/Applied Sciences/Arts/Sports/HealthAndMedicine/LanguageAndLiterature/CultureAndEducation/GeographyHistoryAndBiography/Kindle/BusinessAndManagement
+      tags: Hardware/Software/Network/Security/Software Engineering/InformationSystems/ArtificialIntelligence/TheoryOfComputation/Human-ComputerInteraction
     posts:
       title: The Frameworks of Effective Product Design Sense
       subtitle: Craft products better with better systematic design judgment
       banner:
         image: "/assets/images/newbusinessflowchart/pro.png)"
         opacity: 0.3
-      category: Engineering/General/Philosophy/History/Social Sciences/Natural Sciences/Applied Sciences/Arts/Sports/Health and Medicine/Language and Literature/Culture and Education/Geography, History, and Biography/Kindle
+      category:  Engineering/General/Philosophy/History/Social Sciences/Natural Sciences/Applied Sciences/Arts/Sports/HealthAndMedicine/LanguageAndLiterature/CultureAndEducation/GeographyHistoryAndBiography/Kindle/BusinessAndManagement
       tags: Hardware/Software/Network/Security/Software Engineering/Information Systems/Artificial Intelligence/Theory of Computation/Human-Computer Interaction
 
 #      published: false

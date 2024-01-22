@@ -10,7 +10,6 @@ tag: update
     https://clm.seojapan.com/4659
     まだ書いてない書籍のレビュー
 
-
 ## ai blog create
 
 ruby app/models/main.rb app/prompt/General.md
@@ -28,7 +27,7 @@ ruby app/models/main.rb app/prompt/Kindle.md
 
 ## asciinema
 
-https://asciinema.org/
+[asciinema-HP](https://asciinema.org/)
 ターミナルでのコマンドや実行結果を軽量かつ簡易に保存できる。
 
 ### rec
@@ -50,14 +49,13 @@ asciinema rec filename.cast
 歴史　History
 社会科学　Social Sciences
 自然科学　Natural Sciences
-応用科学・Applied Sciences 
+応用科学・Applied Sciences
 工学　  Engineering
 芸術・スポーツ Arts and Sports
     食事系　Food-related (under Arts and Sports)
 言語・文学　Language and Literature
 文化・教養　Culture and Education
 地理・歴史・伝記　Geography, History, and Biography
-
 
 ## tag
 
@@ -77,6 +75,7 @@ Human-Computer Interaction: ユーザーインターフェース、ユーザビ�
 ## 記事のテンプレート作成
 
 ```zsh
+
 # new post
 bundle exec jekyll post "My New Page"
 # draft
@@ -90,3 +89,13 @@ bundle exec jekyll publish _drafts/my-new-draft.md --timestamp-format "%Y-%m-%d 
 # Unpublish your post using
 bundle exec jekyll unpublish _posts/2014-01-24-my-new-draft.md
 ```
+
+### 参考ブログ
+
+シンプルなブログで記事が良質で良い
+https://ikumengineer.net/
+
+:::note info
+
+infomation
+:::

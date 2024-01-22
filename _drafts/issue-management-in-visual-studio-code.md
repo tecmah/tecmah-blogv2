@@ -43,6 +43,7 @@ Visual Studio Code (VS Code) で GitHub の Issue を管理するには、まず
    - この拡張機能をインストールすることで、VS Code 内で直接 GitHub の Pull Request と Issue を管理できます。
 
 インストール方法:
+
 - VS Code を開き、左側のアクティビティバーにある「拡張機能」アイコンをクリックします。
 - 検索バーに「GitHub Pull Requests and Issues」と入力し、検索結果から拡張機能を見つけてインストールします。
 ![Alt text](../assets/images/issue-management-in-visual-studio-code/image.png)
