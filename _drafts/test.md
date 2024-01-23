@@ -95,7 +95,4 @@ bundle exec jekyll unpublish _posts/2014-01-24-my-new-draft.md
 シンプルなブログで記事が良質で良い
 https://ikumengineer.net/
 
-:::note info
 
-infomation
-:::
