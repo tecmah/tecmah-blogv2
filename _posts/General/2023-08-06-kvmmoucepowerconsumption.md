@@ -1,12 +1,16 @@
 ---
 layout: post
 title: KVMでゲーミングマウスを使用していると接続が切れる問題を解決！
+banner:
+ image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/0eb182e7-9fd6-42f4-9e9c-1cf24238772c
+ opacity: 0.3
 description:
 category: General
 tags: Hardware KVM Mouse GamingMouse
 date: '2023-08-06 11:11:53 +0900'
 ---
-![Alt text](/assets/images/kvmmoucepowerconsumption/DSC_1361.JPG)
+
+![DSC_1361 (1)](https://github.com/tecmah/tecmah-blogv2/assets/11237144/93fcd7dc-24ad-48d2-85b1-47afe3579950)
 
 KVM（キーボード、ビデオ、マウス）スイッチを使用して、複数のコンピュータを一つのキーボードやマウスで操作していますか？
 それともゲーミングマウスを愛用して、その高精度とカスタマイズ機能に夢中になっていますか？
@@ -59,7 +63,7 @@ MacとWindowsとLinuxなどの複数OSを跨いでマウスを使用している
 
 電源消費量が少ないマウスに変更することで、KVMスイッチとの接続問題を解決することができます。
 
-![Alt text](/assets/images/kvmmoucepowerconsumption/DSC_1362.JPG)
+![DSC_1362 (1)](https://github.com/tecmah/tecmah-blogv2/assets/11237144/dd8da52a-ef14-44d4-873c-57db69a38877)
 
 ## 4. まとめ
 
