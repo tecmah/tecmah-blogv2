@@ -11,11 +11,10 @@ tags: Software VScode Setting
 公式でいつの間にかクリップボードの画像をMarkdownのファイルに貼り付けることができるようになっていました。
 詳しく調べてみると[2023年5月のアップデート](https://code.visualstudio.com/updates/v1_79#_markdowncopyfilesdestination)で正式に採用されたみたいです。
 
-
 ## 目次
 
-1. [VSCodeの設定](#VSCodeの設定)
-2. [Macでのペーストの例](#Macでのペーストの例)
+1. [VSCodeの設定](#vscodeの設定)
+2. [Macでのペーストの例](#macでのペーストの例)
 3. [設定方法の詳細](#設定方法の詳細)
 4. [注意点](#注意点)
 5. [画像圧縮を行うには](#画像圧縮を行うには)

@@ -3,7 +3,7 @@ layout: post
 title: GithubPageの画像をURLで管理する方法
 description:
 banner:
-  image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/93c48db4-fb63-4c56-96d1-359d7ea52627
+  image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/a27554ce-b78b-435a-bee7-72e2693d77fa
   opacity: 0.3
 category: AppliedSciences
 tags:
@@ -32,7 +32,6 @@ GithubPageを管理する上でリポジトリ上で画像を管理するのが�
 私にとっては当たり前の考えですが改めて説明すると
 以下の点を考慮すると、GitHub Pagesのリポジトリ上で直接画像を管理するのではなく、
 URLで画像を管理する方法が、パフォーマンス、セキュリティ、メンテナンスの観点から優れた選択と言えると思います。
-
 
 1. **リポジトリのサイズとパフォーマンス**:
    - 大量の画像ファイルをリポジトリに含めると、リポジトリのサイズが大きくなり、クローンやプルの操作が遅くなる可能性があります。これは特に、画像が頻繁に更新される場合に問題となります。

@@ -3,7 +3,7 @@ layout: post
 title: テスト駆動開発(TDD)
 subtitle: TDDによる効果的な開発の実践
 banner:
-  image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/20d86821-910f-4867-a700-9a46c6732f1e
+  image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/ec30944e-7099-4001-9482-94e879ae9419
   opacity: 0.3
 category: Engineering
 tags:

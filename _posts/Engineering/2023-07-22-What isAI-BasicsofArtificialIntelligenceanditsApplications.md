@@ -3,21 +3,25 @@ layout: post
 title: AI（人工知能）の基本と応用：未来を切り開く技術
 date: 2023-07-17 00:13:32 +0900
 description: 本記事では、AI（人工知能）の基本的な概念から具体的な応用例、そして未来への展望までを詳しく解説します。AIの魅力と可能性を理解し、未来のテクノロジーの進化を一緒に探求しましょう。
+banner:
+    image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/5c02383d-7b76-4f21-8cd1-7cc489c6bac3
+    opacity: 0.3
 category: Engineering
 tags: AI MachineLearning DeepLearning AutonomousDriving NaturalLanguageProcessing ImageRecognition FutureOfAI
 ---
 
-![Alt text](/assets/images/2023-07-22-WhatisAI-BasicsofArtificialIntelligenceanditsApplications/image-1.png)
+![image-1 (3)](https://github.com/tecmah/tecmah-blogv2/assets/11237144/b25d354b-f97a-4d97-852c-2e9803c0e03f)
 AI（人工知能）は現代社会において急速に進化し、多くの分野でその力を発揮しています。本記事では、AIの基本的な概念から具体的な応用例、そして未来への展望までを詳しく解説します。
 AIの魅力と可能性を理解し、未来のテクノロジーの進化を一緒に探求しましょう。
 
 ## 目次
-1. [AIとは何か？](#AIとは何か？)
-2. [AIの応用例](#AIの応用例)
-3. [AIの未来展望](#AIの未来展望)
+
+1. [AIとは何か？](#aiとは何か)
+2. [AIの応用例](#aiの応用例)
+3. [AIの未来展望](#aiの未来展望)
 4. [まとめ](#まとめ)
 
-## AIとは何か？
+## AIとは何か
 
 AI（人工知能）は、人間の知能を模倣し、学習や問題解決、意思決定などを行うことができる技術のことを指します。AIは大量のデータを分析し、パターンを見つけ出すことで学習を行います。この学習の手法には、機械学習や深層学習などがあります。
 
@@ -82,6 +86,8 @@ while True:
 以上で今回のブログ記事を終わります。お楽しみいただけたでしょうか？次回もお楽しみに！
 
 参考文献：
+
 - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
+
 - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 - "AI Superpowers: China, Silicon

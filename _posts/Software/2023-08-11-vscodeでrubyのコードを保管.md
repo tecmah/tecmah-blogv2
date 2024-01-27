@@ -1,13 +1,15 @@
 ---
 layout: post
 title: VScodeでRubyのコードを保管
+banner:
+   image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/373c091e-2079-45af-ad41-42261e8a4a70
+   opacity: 0.3
 category: Engineering
 tags: VScode Ruby
 date: 2023-08-06 16:12:37 +0900
 ---
 
-![Alt text](/assets/images/2023-07-29-vscode-ruby/image.png)
-
+![image (3)](https://github.com/tecmah/tecmah-blogv2/assets/11237144/f005bdf5-03be-430d-b94e-ed9d1ca7e0ae)
 
 こんにちは、Rubyプログラマーの皆さん！今回は、VScodeを使ってRubyのコードを保管する方法についてご紹介します。
 VScodeはパワフルなテキストエディタで、素晴らしい機能や使いやすさで人気です。
@@ -49,7 +51,6 @@ VScodeのインストールは非常に簡単です。以下の手順に従っ�
 
 ...それだけで、あなたもVScodeの世界へ飛び込むことができます！
 
-
 ## VScodeの基本的な使い方<a name="vscodeの基本的な使い方"></a>
 
 VScodeの基本的な使い方を見ていきましょう。VScodeはシンプルなデザインですが、多くの機能を備えています。
@@ -89,14 +90,14 @@ Rubyの拡張機能は以下のような機能を提供しています:
 
 ## Rubyのコードを保管する方法<a name="rubyのコードを保管する方法"></a>
 
-**1.拡張機能「vscode-solargraph」のインストール**
+### 1.拡張機能「vscode-solargraph」のインストール
 
 インストールは以下のリンクから
 [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
 
 追加されるとVScodeの拡張に追加されるのでチェックしてください。
 
-![Alt text](/assets/images/vscode%E3%81%A7ruby%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E4%BF%9D%E7%AE%A1/image.png)
+![image (4)](https://github.com/tecmah/tecmah-blogv2/assets/11237144/92fb9fe0-58bc-45ba-8be0-f4ccace2d1b4)
 
 solargraphの機能の概要を説明すると以下が挙げられます。
 
@@ -121,7 +122,7 @@ solargraphの機能の概要を説明すると以下が挙げられます。
 7. **Ruby on Rails の部分的なサポート**:
    - Ruby on Railsは、Rubyでのウェブアプリケーション開発のためのフレームワークです。部分的なサポートとは、Ruby on Railsの全ての機能や情報がサポートされているわけではないが、一部の機能や情報はサポートされていることを意味します。
 
-**2.gem「solargraph」のインストール**
+### 2.gem「solargraph」のインストール
 
 gem install solargraphを実施し、solargraphをインストールします。
 
@@ -130,9 +131,7 @@ gem install solargraphを実施し、solargraphをインストールします。
 
 ちなみに[githubはこちらのリンク](https://github.com/castwide/vscode-solargraph)になります
 
-
-
-**3.VSCode「UserSettings.json」の設定**
+### 3.VSCode「UserSettings.json」の設定
 
 機能を使えるように、VSCodeのUserSettings.jsonに対してsolargraphの設定を入力します。
 

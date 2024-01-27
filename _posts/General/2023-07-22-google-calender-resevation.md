@@ -11,7 +11,6 @@ tags: Software Google Calender Resevation
 
 ![image (7)](https://github.com/tecmah/tecmah-blogv2/assets/11237144/56b71d36-a3fc-4e57-999f-085739180166)
 
-
 Googleカレンダーで、以前はお金を払わなくては作成できなかった、予約スケジュールが使用できるようになりました。
 なお、個人アカウントの場合は予約ページを一つ作成して予約を受け付けることができますが、それ以上は増やせません。
 しかし受け付け可能な予約件数に上限はなく、料金もかかりらない為、非常に便利なツールになっています。
@@ -42,7 +41,6 @@ googleのサービスで提供されているカレンダーです。アカウ�
 これらの利点により、予約システムは一般の人にとっても非常に便利で重要なツールとなっています。
 待ち時間の削減やスケジュールの調整、確実なサービス提供など、予約システムの導入は利用者と事業者の両方にとってメリットがあります。
 
-
 ## Googleカレンダーの予約ページを作成
 
 Googleのトップページからメニューを表示してGoogleのカレンダーのアイコンを開きます。
@@ -52,18 +50,15 @@ Googleのトップページからメニューを表示してGoogleのカレン�
 
 ![image-1 (1)](https://github.com/tecmah/tecmah-blogv2/assets/11237144/0a336d29-3bcf-4e3f-bcbc-0a492019c6b3)
 
-
 左側の作成のボタンから予約スケジュールをクリックします。
 
 ![image-2 (1)](https://github.com/tecmah/tecmah-blogv2/assets/11237144/b2c4311c-fd95-4c80-99ca-68010ba57ea4)
 
 ![image-3](https://github.com/tecmah/tecmah-blogv2/assets/11237144/fead4295-7c19-4f54-a104-becc7dbbdbc2)
 
-
 クリック後に予約スケジュールの編集画面が表示されます。
 
 ![image-4](https://github.com/tecmah/tecmah-blogv2/assets/11237144/e67ac661-8844-4f4a-80bb-1b50217f8af8)
-
 
 ## 予約ページで必要な設定を行う
 
@@ -94,10 +89,7 @@ Googleのトップページからメニューを表示してGoogleのカレン�
 
 自動で既に予約されたカレンダーの予定の場所には、この予約枠は表示されません。
 
-
-
 ![image-6](https://github.com/tecmah/tecmah-blogv2/assets/11237144/24f1941b-77d4-4bd1-bb11-920be4c5317a)
-
 
 ## 予約ページを共有する
 
@@ -108,7 +100,6 @@ Googleのトップページからメニューを表示してGoogleのカレン�
 ![image-7](https://github.com/tecmah/tecmah-blogv2/assets/11237144/fa988735-4c61-415f-b3b7-2da69eaf1194)
 
 予約できる形式は**リンク、Webサイトへの埋め込み**で行えます。
-
 
 ## まとめ
 
