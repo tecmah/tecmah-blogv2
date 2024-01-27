@@ -2,13 +2,14 @@
 layout: post
 title: Googleカレンダーで予約システムを使えるようになった
 date: 2023-07-22 12:22 +0900
-image: "/assets/images/2023-07-22-google-calender-resevation/image.png"
+banner:
+  image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/e9ee8916-8d20-4c47-8980-7cf631c36855
 description:
 category: General
 tags: Software Google Calender Resevation
 ---
 
-![Alt text](/assets/images/2023-07-22-google-calender-resevation/image.png)
+![image (7)](https://github.com/tecmah/tecmah-blogv2/assets/11237144/56b71d36-a3fc-4e57-999f-085739180166)
 
 
 Googleカレンダーで、以前はお金を払わなくては作成できなかった、予約スケジュールが使用できるようになりました。
@@ -49,14 +50,20 @@ Googleのトップページからメニューを表示してGoogleのカレン�
 
 [Googleカレンダーへのリンク](https://calendar.google.com/calendar)
 
-![Alt text](/assets/images/2023-07-22-google-calender-resevation/image-1.png)
+![image-1 (1)](https://github.com/tecmah/tecmah-blogv2/assets/11237144/0a336d29-3bcf-4e3f-bcbc-0a492019c6b3)
+
 
 左側の作成のボタンから予約スケジュールをクリックします。
 
-![Alt text](/assets/images/2023-07-22-google-calender-resevation/image-3.png)
-</br>
+![image-2 (1)](https://github.com/tecmah/tecmah-blogv2/assets/11237144/b2c4311c-fd95-4c80-99ca-68010ba57ea4)
+
+![image-3](https://github.com/tecmah/tecmah-blogv2/assets/11237144/fead4295-7c19-4f54-a104-becc7dbbdbc2)
+
+
 クリック後に予約スケジュールの編集画面が表示されます。
-![Alt text](/assets/images/2023-07-22-google-calender-resevation/image-4.png)
+
+![image-4](https://github.com/tecmah/tecmah-blogv2/assets/11237144/e67ac661-8844-4f4a-80bb-1b50217f8af8)
+
 
 ## 予約ページで必要な設定を行う
 
@@ -74,7 +81,7 @@ Googleのトップページからメニューを表示してGoogleのカレン�
 
 ## 予約ページ
 
-![Alt text](/assets/images/2023-07-22-google-calender-resevation/image-5.png)
+![image-5](https://github.com/tecmah/tecmah-blogv2/assets/11237144/8269b188-e133-4c9e-b04e-3a7fc5d23d4f)
 
 予約ページが作成されるので**予約ページを開く**をクリックし、開きます。
 
@@ -89,7 +96,7 @@ Googleのトップページからメニューを表示してGoogleのカレン�
 
 
 
-![Alt text](/assets/images/2023-07-22-google-calender-resevation/image-6.png)
+![image-6](https://github.com/tecmah/tecmah-blogv2/assets/11237144/24f1941b-77d4-4bd1-bb11-920be4c5317a)
 
 
 ## 予約ページを共有する
@@ -98,7 +105,7 @@ Googleのトップページからメニューを表示してGoogleのカレン�
 右上にある共有の青いボタンを押すと
 予約ページを共有する画面が表示されます。
 
-![Alt text](/assets/images/2023-07-22-google-calender-resevation/image-7.png)
+![image-7](https://github.com/tecmah/tecmah-blogv2/assets/11237144/fa988735-4c61-415f-b3b7-2da69eaf1194)
 
 予約できる形式は**リンク、Webサイトへの埋め込み**で行えます。
 

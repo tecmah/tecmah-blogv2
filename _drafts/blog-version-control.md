@@ -2,7 +2,9 @@
 layout: post
 title: JekyllBlogのバージョンコントロールについて考える
 description:
-excerpt_image: "/assets/images/blog-version-control/Thinking-About-Version-Control-for-Blogs.png"
+banner:
+  image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/523042e6-9331-4509-b69d-1aa6e1a3071f
+  opacity: 0.3
 category: Software Engineering
 tags: Hardware/Software/Network/Security/Software Engineering/Information Systems/Artificial
   Intelligence/Theory of Computation/Human-Computer Interaction
@@ -23,7 +25,6 @@ tags: Hardware/Software/Network/Security/Software Engineering/Information System
 Blogをふと見た時にブランチが一個しかないことに気がついた。
 ![Alt text](https://cdn.discordapp.com/attachments/1198133923855732756/1198435645664804974/image.webp?ex=65bee52b&is=65ac702b&hm=2890961980e647d49d1eb13de01b4b62dceb618d0d809992e44eee8801dedee9&)
 
-  ![image](https://drive.google.com/file/d/1YtoGe2pTvD9c5AJPMQFjcpx1yGt4bNM1/view?usp=sharing)
 Githubpageではブログの記事を主に更新している。
 その為ブランチが一つであれば、プッシュすれば
 workflowが動きDeployが完了することはこのうえなく好ましい

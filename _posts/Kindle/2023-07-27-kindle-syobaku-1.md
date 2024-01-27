@@ -8,10 +8,8 @@ tags: Manga 湘南爆走族 吉田聡
 ---
 
 
-<a href="https://www.amazon.co.jp/%E6%B9%98%E5%8D%97%E7%88%86%E8%B5%B0%E6%97%8F-%EF%BC%88%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E7%89%88%EF%BC%89-%EF%BC%91-%E5%90%89%E7%94%B0-%E8%81%A1-ebook/dp/B071DPTGGV?&linkCode=li3&tag=tecmah-22&linkId=a103c6c928483d00b1f112352e51334d&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071DPTGGV&Format=_SL450_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tecmah-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=tecmah-22&language=ja_JP&l=li3&o=9&a=B071DPTGGV" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-
-
+[湘南爆走族](https://amzn.to/4274Kso)
 
 ## タイトルと著者
 
@@ -23,7 +21,6 @@ tags: Manga 湘南爆走族 吉田聡
 『湘南爆走族』は、吉田聡による青春漫画の決定版です。
 弾丸道路に一つ星を背負った湘爆二代目リーダー江口洋助を筆頭に、
 アキラ・マル・サクライ・ハラサワの5人が赤いスイングトップで湘南海岸を駆け抜けます。
-
 
 ## ジャンル
 
@@ -46,11 +43,9 @@ tags: Manga 湘南爆走族 吉田聡
 
 吉田聡は、『湘南爆走族』などの作品で知られる漫画家です。彼の作品は、青春の熱さと冒険心を描くことで読者から高い評価を受けています。
 
-
 ## 感想と評価
 
 『湘南爆走族』は、その独特な世界観とキャラクターたちの魅力で読者を引きつけます。物語は、湘南海岸を駆け抜ける5人の若者たちの冒険を描いており、その熱い青春の日々は読者を物語の世界に引き込みます。また、吉田聡の描くキャラクターたちは、それぞれに魅力的で、読者は彼らの成長と冒険を通じて自身の青春を思い出すことができます。
-
 
 ## 他の読者の感想
 
@@ -64,8 +59,6 @@ tags: Manga 湘南爆走族 吉田聡
 
 『湘南爆走族』は、青春漫画が好きな人、80年代の文化に興味がある人、独特な世界観とキャラクターの成長を楽しみたい人におすすめです。
 
-
 この本は、独特な世界観とキャラクターたちの魅力、そして熱い青春の日々が描かれており、
 この物語を通じて自身の青春を思い出すことができると思います。
 その魅力をぜひ、あなたも体験してみてください。
-

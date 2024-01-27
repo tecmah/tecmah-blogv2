@@ -43,7 +43,8 @@ jsonで設定しない場合も紹介します
 項目`**/**/*`　値`assets/images/`
 を入力します。
 
-![Alt text](/assets/images/2023-07-21-vscode-settings-for-pasting-images-into-markdown/image.png)
+![image (1)](https://github.com/tecmah/tecmah-blogv2/assets/11237144/c875725f-595e-498c-93f7-c2019ef86307)
+
 ## Macでのペーストの例
 
 Mac上でペーストすると、次のようになります。
@@ -99,9 +100,12 @@ Microsoftの`learn-images`というVSCode拡張を使うと、フォルダ内の
 実行すると、大きな画像を適切なサイズに縮小してくれます。
 この拡張機能は Microsoft Learn の編集者向けツール `vscode-docs-authoring` の一部として提供されています。
 
-[vscode-docs-authoring](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images)
-![Alt text](/assets/images/2023-07-21-vscode-settings-for-pasting-images-into-markdown/image-1.png)
-![Alt text](/assets/images/2023-07-21-vscode-settings-for-pasting-images-into-markdown/image-2.png)
+[learn-images](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images)
+
+![Alt text](https://github.com/tecmah/tecmah-blogv2/assets/11237144/fb8db061-09e1-4551-9da8-0165e22cae3b)
+
+![Alt text](https://github.com/tecmah/tecmah-blogv2/assets/11237144/e0b49399-a2f8-4727-b3d4-465b3f843b48)
+
 ---
 
 以上、VSCodeでクリップボードの画像をそのままMarkdownに貼り付ける方法についての説明でした。

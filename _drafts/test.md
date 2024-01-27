@@ -74,25 +74,20 @@ Human-Computer Interaction: ユーザーインターフェース、ユーザビ�
 
 ## 記事のテンプレート作成
 
-```zsh
-
-# new post
+<!-- # new post -->
 bundle exec jekyll post "My New Page"
-# draft
+<!-- # draft -->
 bundle exec jekyll draft "My new draft"
-# draft rename
+<!-- # draft rename -->
 bundle exec jekyll rename _drafts/my-new-draft.md "My Renamed Draft"
-# specify a specific date on which to publish it
+<!-- # specify a specific date on which to publish it -->
 bundle exec jekyll publish _drafts/my-new-draft.md --date 2014-01-24
-# specify a custom format for the date attribute in the yaml front matter
+<!-- # specify a custom format for the date attribute in the yaml front matter -->
 bundle exec jekyll publish _drafts/my-new-draft.md --timestamp-format "%Y-%m-%d %H:%M:%S %z"
-# Unpublish your post using
+<!-- # Unpublish your post using -->
 bundle exec jekyll unpublish _posts/2014-01-24-my-new-draft.md
-```
 
 ### 参考ブログ
 
 シンプルなブログで記事が良質で良い
-https://ikumengineer.net/
-
-
+<https://ikumengineer.net/>

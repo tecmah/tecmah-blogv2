@@ -3,11 +3,14 @@ layout: post
 title: Speeding up MySite
 subtitle: Craft products better with better systematic design judgment
 banner:
-  image: "/assets/images/newbusinessflowchart/pro.png)"
+  image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/378bb28c-0f74-4f83-8bfd-1774beb11852
   opacity: 0.3
-category: Engineering/General/Philosophy/History/Social Sciences/Natural Sciences/Applied
-  Sciences/Arts/Sports/HealthAndMedicine/LanguageAndLiterature/CultureAndEducation/GeographyHistoryAndBiography/Kindle/BusinessAndManagement
-tags: Hardware/Software/Network/Security/Software Engineering/InformationSystems/ArtificialIntelligence/TheoryOfComputation/Human-ComputerInteraction
+category: 
+  - Engineering
+tags: 
+  - Software Engineering
+  - blog
+  - 
 ---
 
 ## はじめに
@@ -57,12 +60,8 @@ faviconとbannerはwebpに変換して例外にします。
 かなり改善されました。
 次はどう100に近づけるかというところですが、今回はここまでにしておきます。
 
-考えられるタスクを全部はできないので
-
-## 高速化のためにやりたいこと
+おまけ
 
 ### Macで自動的にスクリーンショットをとる場合にwebpに変換する
 
 参考：<https://ikumengineer.net/auto-screenshot-to-webp-mac/>
-
-
