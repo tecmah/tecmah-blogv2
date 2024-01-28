@@ -21,7 +21,7 @@
 title: TECMAH BLOG V2
 email: "&#105;&#110;&#102;&#111;&#46;&#116;&#101;&#99;&#109;&#97;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;" #HTML Entity
 author: TECMAH
-copyright: Copyright © 2024
+copyright: Copyright © TECMAH
 description: >- # this means to ignore newlines until "baseurl:"
   This blog serves as a place to document the thoughts and experiences I gain while embarking on daily new challenges. It's not written specifically for anyone else.
   In facing new challenges, there are often times when I make mistakes, and my viewpoint may differ from those of my readers. However, all of these are part of my valuable experiences.
@@ -120,16 +120,56 @@ jekyll_compose:
       banner:
         image: "/assets/images/newbusinessflowchart/pro.png)"
         opacity: 0.3
-      category: Engineering/General/Philosophy/History/Social Sciences/Natural Sciences/Applied Sciences/Arts/Sports/HealthAndMedicine/LanguageAndLiterature/CultureAndEducation/GeographyHistoryAndBiography/Kindle/BusinessAndManagement
-      tags: Hardware/Software/Network/Security/Software Engineering/InformationSystems/ArtificialIntelligence/TheoryOfComputation/Human-ComputerInteraction
+      category: 
+        - Engineering
+        - Kindle
+        - BusinessAndManagement
+        - General
+        - Sports
+        - Arts
+        - Philosophy
+        - History
+        - Social Sciences
+        - Natural Sciences
+        - AppliedSciences
+        - HealthAndMedicine
+        - LanguageAndLiterature
+        - CultureAndEducation
+        - GeographyHistoryAndBiography
+      tags: 
+        - Hardware
+        - Software
+        - Network
+        - Security
+        - ArtificialIntelligence
     posts:
       title: The Frameworks of Effective Product Design Sense
       subtitle: Craft products better with better systematic design judgment
       banner:
         image: "/assets/images/newbusinessflowchart/pro.png)"
         opacity: 0.3
-      category:  Engineering/General/Philosophy/History/Social Sciences/Natural Sciences/Applied Sciences/Arts/Sports/HealthAndMedicine/LanguageAndLiterature/CultureAndEducation/GeographyHistoryAndBiography/Kindle/BusinessAndManagement
-      tags: Hardware/Software/Network/Security/Software Engineering/Information Systems/Artificial Intelligence/Theory of Computation/Human-Computer Interaction
+      category: 
+        - Engineering
+        - Kindle
+        - BusinessAndManagement
+        - General
+        - Sports
+        - Arts
+        - Philosophy
+        - History
+        - Social Sciences
+        - Natural Sciences
+        - AppliedSciences
+        - HealthAndMedicine
+        - LanguageAndLiterature
+        - CultureAndEducation
+        - GeographyHistoryAndBiography
+      tags: 
+        - Hardware
+        - Software
+        - Network
+        - Security
+        - ArtificialIntelligence
 
 #      published: false
 #      sitemap: false

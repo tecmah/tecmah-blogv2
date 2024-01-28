@@ -4,7 +4,7 @@ title: おっぱいの形の放物線を作ってみた：物理学とコンピ�
 banner:
   image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/465604f4-17ed-4369-a7af-fd9e797bcd1d
   opacity: 0.3
-categories: Software
+categories: Engineering
 tags: program
 date: 2023-07-16 23:03:24 +0900
 ---

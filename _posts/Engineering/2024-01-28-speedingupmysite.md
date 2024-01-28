@@ -5,14 +5,14 @@ subtitle: Craft products better with better systematic design judgment
 banner:
   image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/378bb28c-0f74-4f83-8bfd-1774beb11852
   opacity: 0.3
-category: 
-  - Engineering
-tags: 
-  - Software Engineering
-  - blog
-  - 
+category:
+- Engineering
+tags:
+- Software Engineering
+- blog
+-
+date: '2024-01-28'
 ---
-
 ## はじめに
 
 blogに記事を書いていて、blogをもっと快適に使いたいなという欲が出てきました。

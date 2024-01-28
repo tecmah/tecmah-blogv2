@@ -5,11 +5,13 @@ description:
 banner:
   image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/523042e6-9331-4509-b69d-1aa6e1a3071f
   opacity: 0.3
-category: Software Engineering
-tags: Hardware/Software/Network/Security/Software Engineering/Information Systems/Artificial
-  Intelligence/Theory of Computation/Human-Computer Interaction
+category: Engineering
+tags: 
+  - Software
+  - Software Engineering
+  - git
+date: '2024-01-28'
 ---
-
 ## 目次
 
 1. [はじめに](#はじめに)

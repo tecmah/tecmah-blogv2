@@ -3,7 +3,7 @@ layout: post
 title: NewBusinessFlowchart
 description:
 banner:
-  image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/df75cda0-2388-4583-b6b6-9615193f008e
+  image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/c32a1438-6aec-4503-a346-563e5b928081
   opacity: 0.3
 category: BusinessAndManagement
 tags:
