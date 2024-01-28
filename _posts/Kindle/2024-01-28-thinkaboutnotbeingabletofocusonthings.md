@@ -60,9 +60,9 @@ date: '2024-01-28'
 データを基にした本であることは間違いない。
 
 <div style="text-align: center;">
-    <p>購入は以下の画像をクリック</p>
-    <a href="https://amzn.to/3OcwXbB">
-        <img src="https://www.kawade.co.jp/YOURTIME/img/cover_obi.jpg" alt="kawade-image" width="300" height="350" style="border:2px solid black;">
+    <a href="https://amzn.to/3OcwXbB">購入はこの文字リンクをクリック
+    <br>
+      <img src="https://www.kawade.co.jp/YOURTIME/img/cover_obi.jpg" alt="kawade-image" width="250" height="350" style="border:2px solid black;">
     </a>
 </div>
 
