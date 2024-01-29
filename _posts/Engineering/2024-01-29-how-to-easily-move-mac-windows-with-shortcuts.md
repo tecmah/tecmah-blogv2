@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Easily Move Mac Windows With Shortcuts
-subtitle: Craft products better with better systematic design judgment
+subtitle: Increasing Mac Productivity　"Window Management Apps and Shortcuts"
 banner:
   image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/888c0f7d-d7a4-4367-b728-6c66f182a5ad
   opacity: 0.3
@@ -52,11 +52,21 @@ Macの場合はこのショートカットがなくて長年悩まされてき�
 
 #### Magnetの紹介
 
-有料アプリケーションではMagnetが有名です。
+![magnet](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/54/cf/a1/54cfa113-85ec-0bb7-29d5-c314a183a7b8/6d503693-fe36-40bd-b374-3afaf1bd8aac_MGNT_store_2_8_0_GM_01_JP.png/313x0w.webp)
+
+有料アプリケーションでは[Magnet](https://apps.apple.com/jp/app/magnet-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88/id441258766?mt=12)が有名です。
 
 日本語にも対応していてサブスクではなく買い切りのアプリケーションの為自分はMagnetを採用しています。
 
-#### BetterSnapTool
+#### BetterSnapToolの紹介
+
+正直こちらは使ってはいないのでわかりませんが、Magnetより安いのが魅力です。
+
+付属するアプリケーションが画面の移動以外もサポートをしている為、高機能で選ぶ人が多い印象です。
+
+![BetterSnapTool](https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/4b/b9/fa/4bb9fa79-bf61-c591-e4c0-d4b93408b332/pr_source.jpg/313x0w.webp)
+
+[BetterSnapToolへのリンク](https://apps.apple.com/jp/app/bettersnaptool/id417375580?mt=12)
 
 ### 無料のアプリケーションで解決する方法
 
@@ -64,8 +74,19 @@ Macの場合はこのショートカットがなくて長年悩まされてき�
 
 ### Rectangleの紹介
 
+RectangleはSpectacleをベースにSwiftで書かれたウィンドウ管理アプリです。
 
+かなり高機能で無料で使えるため、私もMagnetを買わなくてよかったかもしれないと思うほどです。
 
+Swiftの勉強にもなるので、ぜひ使ってみてOSSに貢献してみてください。
+
+気に入れば**Rectangle Pro**にも有料でアップグレードできます。
+
+<p><a href="https://rectangleapp.com?wvideo=ujke3wuva9"><img src="https://embed-ssl.wistia.com/deliveries/2a6e684731e1b623f5d6926dabce9125.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=174bd2e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://rectangleapp.com?wvideo=ujke3wuva9">Rectangle Mac</a></p>
+
+[Rectangleのリポジトリへのリンクはこちら](https://github.com/rxhanson/Rectangle)
+
+[RectangleのHPへのリンクはこちら](https://rectangleapp.com/)
 
 
 つい最近のアプリケーションのサポートが終わってしまいましたが、
