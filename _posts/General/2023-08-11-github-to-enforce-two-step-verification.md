@@ -9,7 +9,7 @@ tags: Github 2FA
 date: 2023-08-11 08:39:39 +0900
 ---
 
-
+github-to-enforce-two-step-verification
 
 ✨皆さん、こんにちは！今回は、Githubが2段階認証を強制適用するというニュースをお届けします！
 Github本社はGithubがより安全な環境を提供するために、2段階認証を2023年末までに強制適用することを決定しました。

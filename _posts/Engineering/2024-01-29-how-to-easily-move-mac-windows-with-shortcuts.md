@@ -13,16 +13,6 @@ tags:
 - window management app
 date: '2024-01-29'
 ---
-- [はじめに](#はじめに)
-- [アプリケーションの紹介](#アプリケーションの紹介)
-  - [有料のアプリケーションで解決する方法](#有料のアプリケーションで解決する方法)
-    - [Magnetの紹介](#magnetの紹介)
-    - [BetterSnapTool](#bettersnaptool)
-  - [無料のアプリケーションで解決する方法](#無料のアプリケーションで解決する方法)
-    - [Rectangleの紹介](#rectangleの紹介)
-    - [Spectacleの紹介](#spectacleの紹介)
-- [AppleScriptの使用](#applescriptの使用)
-- [まとめ](#まとめ)
 
 ## はじめに
 

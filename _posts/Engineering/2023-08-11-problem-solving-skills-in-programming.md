@@ -1,8 +1,11 @@
 ---
 layout: post
 title: プログラミングにおける問題解決のスキル
-category: Applied Sciences
-tags: Software SoftwareEngineering 
+category: 
+  - Engineering
+tags: 
+  - Software 
+  - SoftwareEngineering 
 date: 2023-08-03 23:07:53 +0900
 ---
 

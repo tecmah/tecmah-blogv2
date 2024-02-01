@@ -12,6 +12,9 @@ tags: Hardware/Software/Network/Security/Software Engineering/InformationSystems
 
 VS codeで文字列をキャメルケース・スネークケースに変換するショートカットの登録方法
 cmd+shift+p
+
+how-to-register-a-shortcut-to-convert-a-string-to-camel-case-snake-case-in-vs-code
+
 https://zenn.dev/mgmmy/articles/45ed0743467de3#change-case
 
 Laplasのポートフォリオをgithubのマイページに対して反映する。
@@ -31,3 +34,8 @@ youtubeやspotyfiで音楽をえらんでいる時間ももったいないと感
 
 ## ポジションバリューについて考える
 
+## ITエンジニア本大賞
+
+https://www.shoeisha.co.jp/campaign/award/result/
+
+2014年から存在する

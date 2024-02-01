@@ -5,7 +5,8 @@ description:
 banner:
   image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/a27554ce-b78b-435a-bee7-72e2693d77fa
   opacity: 0.3
-category: AppliedSciences
+category: 
+   - Engineering
 tags:
 - Software Engineering
 - Information Systems
