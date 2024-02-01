@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Cloudflare設定変更によるリダイレクトループエラーの解決
+title: GithubPageのCloudflareの設定
+subtitle: Cloudflare設定変更によるリダイレクトループエラーの解決
 banner:
     image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/32977341-319c-4e8d-8f2c-857c70c0d35f
     opacity: 0.3
