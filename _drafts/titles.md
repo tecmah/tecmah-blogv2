@@ -39,3 +39,12 @@ youtubeやspotyfiで音楽をえらんでいる時間ももったいないと感
 https://www.shoeisha.co.jp/campaign/award/result/
 
 2014年から存在する
+
+## リーダーについて考える
+
+https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=ja&subtitle=ja
+
+https://note.com/xoperation/n/n38a56f50ae15
+
+## カロリー計算GPT
+

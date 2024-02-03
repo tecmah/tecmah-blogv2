@@ -1,7 +1,8 @@
 ---
 layout: post
-title: ブログで書く記事の見つけ方
-description:
+title: How To Find Articles To Write For Your Blog
+subtitle: ブログで書く記事の見つけ方
+description: ブログで記事を書くことなくなった時のメモ
 banner:
   image: "/assets/images/newbusinessflowchart/pro.png)"
   opacity: 0.9
@@ -16,7 +17,11 @@ tags: Hardware/Software/Network/Security/Software Engineering/Information System
 https://clm.seojapan.com/4659
 
 「これは同じように困ってる人が絶対いる」と思ったら書かずにはいられない。
+
 参考になる
 https://ikumengineer.net/review-qiita1st-how-to-write-good-article/
 
 何も見ずに小学生にＯＯを説明するとしたら？
+
+日記　ポストイット
+短い文章で1日あったことを３行でまとめる。

@@ -2,9 +2,11 @@
 layout: post
 title: How To Easily Move Mac Windows With Shortcuts
 subtitle: Increasing Mac Productivity　"Window Management Apps and Shortcuts"
+description: "On Windows operating systems, shortcuts such as **win + →*** allow you to to adjust the size of the active window from the beginning. On the Mac, this shortcut is not available and has been a problem for many years.By using the application introduced below, customize keyboard shortcuts to easily move and resize windows. These applications offer a variety of useful functions, such as snapping a window to a specific part of the screen or resizing it to a specific size."
 banner:
   image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/888c0f7d-d7a4-4367-b728-6c66f182a5ad
   opacity: 0.3
+image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/888c0f7d-d7a4-4367-b728-6c66f182a5ad
 category:
 - Engineering
 tags:

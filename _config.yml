@@ -34,10 +34,18 @@ favicon: "/assets/images/favicon/favicon.webp" # the favicon for your site
 twitter_username: onlyos
 github_username:  maurayonori
 
+# SEO settings
 google_site_verification: Hwkbghj0ak6cDfhDUUsiG6RLJWnvcuEGc27qHdzhqtY
 google_analytics: G-HQVQ2Z5P7J
-#google_analytics: G-ZDBEM15KK6
-enableDNT: "false"
+enableDNT: "false" # Do Not Track
+
+twitter:
+  username: onlyos
+  card: summary
+  creator: onlyos
+
+
+
 
 # If you want to generate website sitemap, you can set true
 sitemap: true
@@ -117,6 +125,7 @@ jekyll_compose:
     drafts:
       title: The Frameworks of Effective Product Design Sense
       subtitle: Craft products better with better systematic design judgment
+      description:
       banner:
         image: "/assets/images/newbusinessflowchart/pro.png)"
         opacity: 0.3
@@ -145,6 +154,7 @@ jekyll_compose:
     posts:
       title: The Frameworks of Effective Product Design Sense
       subtitle: Craft products better with better systematic design judgment
+      description:
       banner:
         image: "/assets/images/newbusinessflowchart/pro.png)"
         opacity: 0.3
