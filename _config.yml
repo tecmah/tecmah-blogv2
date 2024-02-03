@@ -129,6 +129,7 @@ jekyll_compose:
       banner:
         image: "/assets/images/newbusinessflowchart/pro.png)"
         opacity: 0.3
+      image: "/assets/images/newbusinessflowchart/pro.png)"
       category: 
         - Engineering
         - Kindle
@@ -158,6 +159,7 @@ jekyll_compose:
       banner:
         image: "/assets/images/newbusinessflowchart/pro.png)"
         opacity: 0.3
+      image: "/assets/images/newbusinessflowchart/pro.png)"
       category: 
         - Engineering
         - Kindle
