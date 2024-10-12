@@ -29,6 +29,7 @@ bundle exec jekyll unpublish _posts/2014-01-24-my-new-draft.md
 
 rubyはrbenvでの管理を推奨しています。
 現在のversionは3.2.2で動作させています。
+rbenvでバージョンを管理するのを推奨しております。
 
 ## Jekyllのインストール
 
@@ -57,7 +58,6 @@ gh run list --workflow=jekyll.yml
 ruby app/models/main.rb app/prompt/General.md 
 ruby app/models/main.rb app/prompt/kindle.md 
 ```
-
 ## イメージの最適化
 
 ../../asetts
@@ -69,3 +69,54 @@ https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images
 
 本番ビルドはlinux　開発はMacなので以下を追加してGemfile.lockを定義してます。
 bundle lock --add-platform x86_64-linux
+
+### windowsでの開発環境構築
+
+#### WSLのインストール
+
+WSLUbuntu-22.04を使用して開発環境を構築しています。
+windowsでの直接の開発環境構築は難があるので推奨できません。
+
+以下は、`rbenv`を使ってRuby 3.2.2をUbuntu 22.04環境にインストールするための手順を簡潔にまとめたものです。
+
+#### 1. 必要なパッケージをインストール
+
+`rbenv`を使用してRubyをビルドするために必要な依存パッケージをインストールします。
+
+```bash
+sudo apt update
+sudo apt install -y libssl-dev libreadline-dev zlib1g-dev build-essential libbz2-dev libsqlite3-dev libffi-dev libyaml-dev
+```
+
+#### 2. `rbenv`と`ruby-build`のインストール
+
+`rbenv`と`ruby-build`をインストールします。
+
+```bash
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+source ~/.bashrc
+
+git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+```
+
+#### 3. Ruby 3.2.2のインストール
+
+`rbenv`を使ってRuby 3.2.2をインストールします。
+
+```bash
+rbenv install 3.2.2
+rbenv global 3.2.2
+```
+
+#### 4. インストール確認
+
+インストールが成功したか確認します。
+
+```bash
+ruby -v
+```
+
+
+
