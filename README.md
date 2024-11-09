@@ -120,4 +120,8 @@ ruby -v
 ```
 
 
+### theme
+themeはリモートで別リポジトリを参照しています。
+remote_theme: maurayonori/jekyll-theme-yat@develop
+
 
