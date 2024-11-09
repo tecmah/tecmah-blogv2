@@ -5,6 +5,7 @@
 blogのファーストバージョンは[tecmah-blog](https://github.com/tecmah/tecmah-blog)になります。
 Hexoで構築しましたが、githubpageによる運用が大変になってきたので
 作り直しました
+jekyllで作成しなおしています。
 
 ## blog記事作成のコマンド
 
