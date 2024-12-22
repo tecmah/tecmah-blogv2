@@ -56,6 +56,8 @@ asciinema rec filename.cast
 言語・文学　Language and Literature
 文化・教養　Culture and Education
 地理・歴史・伝記　Geography, History, and Biography
+個人的に図書館分類法の日本十進分類法は、ブログでも同様の分類が好みである。
+しかし、コンテンツが多く無いので、参考程度に考える。
 
 ## tag
 
