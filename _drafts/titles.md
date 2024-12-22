@@ -48,3 +48,31 @@ https://note.com/xoperation/n/n38a56f50ae15
 
 ## カロリー計算GPT
 
+## seo
+
+### tｗitterカード設定
+
+https://www.granfairs.com/blog/staff/setting-twitter-cards
+
+thinking-about-publishing-a-kindle-book
+
+## 思考の高速化
+### 秒単位の締め切りを設ける
+### とりあえず３つある
+　言いながら考え３つの反論を考える
+### デッサン方法
+　発言して初めていいたいことわかる時がある、だいたいこうじゃないのかという言葉を探しながら会話する
+## 思考の強さ
+
+# Flutter開発の環境構築
+
+building-a-flutter-development-environment
+
+Building a Flutter Development Environment
+
+consider-the-useless-blogtag
+
+websideberについて書く
+https://join.meetsidekick.com/xmeb8
+
+
