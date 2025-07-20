@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Frameworks of Effective Product Design Sense
-subtitle: Craft products better with better systematic design judgment
-description: 
+title: Rubyの基礎
+subtitle: Rubyの基礎文法と構文を振り返る
+description:
 banner:
   image: "/assets/images/newbusinessflowchart/pro.png)"
   opacity: 0.3
@@ -12,9 +12,8 @@ category:
 tags:
 - Software
 - Ruby
+date: 2024-12-22 00:00 +0000
 ---
-
-
 久しぶりにRubyを使用して開発を行うので
 段階的に振り返って見た
 

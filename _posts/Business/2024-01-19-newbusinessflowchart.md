@@ -5,7 +5,7 @@ description:
 banner:
   image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/c32a1438-6aec-4503-a346-563e5b928081
   opacity: 0.3
-category: BusinessAndManagement
+category: Business
 date: '2024-01-19 14:28:18 +0900'
 ---
 

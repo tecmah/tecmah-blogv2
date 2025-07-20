@@ -73,6 +73,9 @@ content_width: "1000px"
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.html
+  - menu/company.md
+  - menu/services.md
+  - blog.html
   - menu/archives.html
   - menu/categories.html
   - menu/tags.html
@@ -153,29 +156,30 @@ plugins:
 jekyll_compose:
   default_front_matter:
     drafts:
-      title: The Frameworks of Effective Product Design Sense
-      subtitle: Craft products better with better systematic design judgment
+      title: 新しい下書き
+      subtitle: サブタイトルを入力してください
       description:
       banner:
         image: "/assets/images/newbusinessflowchart/pro.png)"
         opacity: 0.3
       image: "/assets/images/newbusinessflowchart/pro.png)"
       category: 
-        - Engineering
-        - Kindle
-        - BusinessAndManagement
-        - General
-        - Sports
-        - Arts
-        - Philosophy
-        - History
-        - Social Sciences
-        - Natural Sciences
-        - AppliedSciences
-        - HealthAndMedicine
-        - LanguageAndLiterature
-        - CultureAndEducation
-        - GeographyHistoryAndBiography
+        - Engineering # 工学
+        - Kindle # キンドル
+        - Business # ビジネス
+        - Management # マネジメント
+        - General # 一般
+        - Sports # スポーツ
+        - Arts # 芸術
+        - Philosophy # 哲学
+        - History # 歴史
+        - Social Sciences # 社会科学
+        - Natural Sciences # 自然科学
+        - AppliedSciences # 応用科学
+        - HealthAndMedicine # 健康と医学
+        - LanguageAndLiterature # 言語と文学
+        - CultureAndEducation # 文化と教育
+        - GeographyHistoryAndBiography # 地理、歴史、伝記
       tags: 
         - Hardware
         - Software
@@ -183,29 +187,30 @@ jekyll_compose:
         - Security
         - ArtificialIntelligence
     posts:
-      title: The Frameworks of Effective Product Design Sense
-      subtitle: Craft products better with better systematic design judgment
+      title: 新しい投稿
+      subtitle: サブタイトルを入力してください
       description:
       banner:
         image: "/assets/images/newbusinessflowchart/pro.png)"
         opacity: 0.3
       image: "/assets/images/newbusinessflowchart/pro.png)"
       category: 
-        - Engineering
-        - Kindle
-        - BusinessAndManagement
-        - General
-        - Sports
-        - Arts
-        - Philosophy
-        - History
-        - Social Sciences
-        - Natural Sciences
-        - AppliedSciences
-        - HealthAndMedicine
-        - LanguageAndLiterature
-        - CultureAndEducation
-        - GeographyHistoryAndBiography
+        - Engineering # 工学
+        - Kindle # キンドル
+        - Business # ビジネス
+        - Management # マネジメント
+        - General # 一般
+        - Sports # スポーツ
+        - Arts # 芸術
+        - Philosophy # 哲学
+        - History # 歴史
+        - Social Sciences # 社会科学
+        - Natural Sciences # 自然科学
+        - AppliedSciences # 応用科学
+        - HealthAndMedicine # 健康と医学
+        - LanguageAndLiterature # 言語と文学
+        - CultureAndEducation # 文化と教育
+        - GeographyHistoryAndBiography # 地理、歴史、伝記
       tags: 
         - Hardware
         - Software

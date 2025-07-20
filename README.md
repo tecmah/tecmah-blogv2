@@ -42,7 +42,39 @@ Jekyll公式の解説に沿ってインストールしてください。
 
 ## ローカルでのプレビュー
 
+```bash
+# 基本的なローカルサーバー起動
 bundle exec jekyll serve
+
+# ドラフトも含めて表示する場合
+bundle exec jekyll serve --drafts
+
+# ポートを指定する場合（デフォルトは4000）
+bundle exec jekyll serve --port 4001
+
+# 自動リロードを無効にする場合
+bundle exec jekyll serve --no-watch
+
+# ベースURLを指定する場合（本番環境との差異を確認）
+bundle exec jekyll serve --baseurl ""
+```
+
+### 会社HPの変更確認方法
+
+1. ローカルサーバーを起動
+   ```bash
+   bundle exec jekyll serve --drafts
+   ```
+
+2. ブラウザで以下のURLにアクセス
+   - トップページ（会社紹介）: http://localhost:4000/
+   - 会社概要: http://localhost:4000/company/
+   - サービス: http://localhost:4000/services/
+   - ブログ一覧: http://localhost:4000/blog.html
+
+3. ナビゲーションメニューの確認
+   - 各ページへのリンクが正しく表示されているか確認
+   - リンクをクリックして遷移が正常に動作するか確認
 
 ## github Action　test
 

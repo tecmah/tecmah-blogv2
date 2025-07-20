@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Thinking About Publishing A Kindle Book
-subtitle: What is the significance of publishing a book and how to do it?
-description:
+title: Kindle本の出版について考える
+subtitle: 本を出版する意義とその方法について
+description: Kindle本の出版プロセスと必要なステップについて解説します
 banner:
   image: https://github.com/tecmah/tecmah-blogv2/assets/11237144/39c3b9b8-a0d3-49eb-b40a-58d7ec54de12
   opacity: 0.3

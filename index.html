@@ -1,12 +1,156 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
 title: Home
+heading: "先進技術で企業の成長と社会の変革を加速する"
+subheading: "TECMAH - テクノロジーMAホールディングス株式会社"
 banner:
-  image: /assets/images/banners/home8.webp
-  background: "#000"
-  opacity: 0.3
-sidebar: []
+image: /assets/images/banners/home8.webp
+background: "#000"
+opacity: 0.3
 ---
+
+<style>
+  .company-intro {
+    margin: 3rem 0;
+  }
+
+  .company-intro h2 {
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+
+  .services-overview {
+    margin-top: 3rem;
+  }
+
+  .service-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+
+  .service-card {
+    background: #f8f9fa;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+
+  .service-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  }
+
+  .service-card h3 {
+    color: #333;
+    margin-bottom: 1rem;
+  }
+
+  .recent-posts {
+    margin-top: 5rem;
+    padding-top: 3rem;
+    border-top: 1px solid #eee;
+  }
+
+  .recent-posts h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .post-list {
+    margin-top: 2rem;
+  }
+
+  .see-all-posts {
+    text-align: center;
+    margin-top: 2rem;
+  }
+
+  .see-all-posts a {
+    display: inline-block;
+    padding: 0.8rem 2rem;
+    background: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+  }
+
+  .see-all-posts a:hover {
+    background: #0056b3;
+  }
+
+  .company-info {
+    text-align: center;
+    margin: 2rem 0;
+    line-height: 1.8;
+  }
+</style>
+
+<!-- 会社紹介セクション -->
+<section class="company-intro">
+  <h2>TECMAHについて</h2>
+  <div class="company-info">
+    <p>
+      TECMAHは、AI、Web3、ブロックチェーンなどの最新技術を活用し、<br>
+      事業の創出と成長からM&Aによるエグジットまで、包括的なサポートを提供する企業です。
+    </p>
+    <p>
+      10年以上にわたるシステム開発やプロジェクトマネジメントの経験を活かし、<br>
+      技術とビジネスの両面から企業の成長を支援します。
+    </p>
+  </div>
+
+  <div class="services-overview">
+    <h3 style="text-align: center;">主なサービス</h3>
+    <div class="service-grid">
+      <div class="service-card">
+        <h3>🤖 AI開発・データ解析</h3>
+        <p>Azure AI、OpenAI、RAGを活用したクラウドネイティブ開発やデータ解析により、業務効率化とプロダクトの価値向上を実現します。</p>
+      </div>
+      <div class="service-card">
+        <h3>💼 プロジェクトマネジメント</h3>
+        <p>PdM/PM/PMOとして、プロジェクトの企画から実行まで一貫してサポート。月額80万～150万円の契約を1年単位で継続受注。</p>
+      </div>
+      <div class="service-card">
+        <h3>🤝 M&A支援プラットフォーム</h3>
+        <p>マイクロM&Aに特化し、個人事業主や中小企業の事業承継ニーズに対応。30万円程度の小規模事業でも手軽に売買可能。</p>
+      </div>
+      <div class="service-card">
+        <h3>📚 リスキリング・教育支援</h3>
+        <p>最新のITスキルやAI、データ解析のリスキリングパッケージを提供。実際の事業運営に直結したスキルアップを支援。</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 最新ブログ記事セクション -->
+<section class="recent-posts">
+  <h2>最新の記事</h2>
+
+  <div class="post-list">
+    {% for post in site.posts limit:5 %}
+    <article class="post-item">
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p class="post-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y年%m月%d日" }}</time>
+        {% if post.categories %}
+        in {% for category in post.categories %}
+        <a href="{{ site.categories_path }}#{{ category }}">{{ category }}</a>
+        {%- unless forloop.last -%}, {% endunless %}
+        {% endfor %}
+        {% endif %}
+      </p>
+      {% if post.excerpt %}
+      <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+
+  <div class="see-all-posts">
+    <a href="/blog.html">すべての記事を見る →</a>
+  </div>
+</section>
