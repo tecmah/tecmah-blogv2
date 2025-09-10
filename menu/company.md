@@ -57,7 +57,41 @@ permalink: /company/
   color: #007bff;
   margin-bottom: 0.5rem;
 }
+
+.contact-info {
+  color: #007bff;
+  font-weight: bold;
+}
 </style>
+
+<script>
+function showContact(type) {
+  // シンプルな数学CAPTCHA
+  const num1 = Math.floor(Math.random() * 10) + 1;
+  const num2 = Math.floor(Math.random() * 10) + 1;
+  const answer = num1 + num2;
+  
+  const userAnswer = prompt(`${num1} + ${num2} = ? を計算してください:`);
+  
+  if (userAnswer && parseInt(userAnswer) === answer) {
+    const contactData = {
+      'phone': '070-8359-2530',
+      'email': 'info.tecmah@gmail.com',
+      'address': '北海道札幌市中央区南2条西5丁目31-1RMBld.701'
+    };
+    
+    const element = document.getElementById(type);
+    if (element) {
+      element.innerHTML = contactData[type];
+      element.className = 'contact-info';
+      element.onclick = null;
+      element.style.cursor = 'default';
+    }
+  } else {
+    alert('計算が間違っています。もう一度お試しください。');
+  }
+}
+</script>
 
 <table class="company-table">
   <tr>
@@ -70,14 +104,14 @@ permalink: /company/
   </tr>
   <tr>
     <th>住所</th>
-    <td>北海道札幌市中央区南2条西5丁目31-1RMBld.701
+    <td><span id="address" style="cursor: pointer;" onclick="showContact('address')">[クリックして表示]</span>
 </td>
   </tr>
   <tr>
     <th>連絡先</th>
     <td>
-      TEL: 070-8359-2530<br>
-      Email: info.tecmah@gmail.com
+      TEL: <span id="phone" style="cursor: pointer;" onclick="showContact('phone')">[クリックして表示]</span><br>
+      Email: <span id="email" style="cursor: pointer;" onclick="showContact('email')">[クリックして表示]</span>
     </td>
   </tr>
   <tr>

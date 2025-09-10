@@ -6,12 +6,11 @@ excerpt_image: "/assets/images/issue-management-in-visual-studio-code/excerpt_im
 category: Engineering/General/Philosophy/History/Social Sciences/Natural Sciences/Applied
   Sciences/Arts/Sports/Health and Medicine/Language and Literature/Culture and Education/Geography,
   History, and Biography/Kindle
-tags: Hardware/Software/Network/Security/Software Engineering/Information Systems/Artificial
-  Intelligence/Theory of Computation/Human-Computer Interaction
+tags: Software Engineering
 
 
 
-  layout: post
+layout: post
 title: The Frameworks of Effective Product Design Sense
 subtitle: Craft products better with better systematic design judgment
 author: Jeffrey Tse
@@ -27,11 +26,12 @@ tags:
 
 ## 目次
 
-1. [拡張機能のインストール](#拡張機能のインストール)
-2. [GitHub アカウントとの連携](#github-アカウントとの連携)
-3. [Issue の管理](#issue-の管理)
-4. [コメントとラベルの操作](#コメントとラベルの操作)
-5. [設定とカスタマイズ](#設定とカスタマイズ)
+- [目次](#目次)
+  - [拡張機能のインストール](#拡張機能のインストール)
+  - [GitHub アカウントとの連携](#github-アカウントとの連携)
+  - [Issue の管理](#issue-の管理)
+  - [コメントとラベルの操作](#コメントとラベルの操作)
+  - [設定とカスタマイズ](#設定とカスタマイズ)
 
 この目次は、Visual Studio CodeでGitHubのIssueを管理する際の主要なステップを反映しています。各セクションへのリンクは、Markdown形式で表されており、関連するセクションに直接ジャンプできるようになっています。
 Visual Studio Code (VS Code) で GitHub の Issue を管理するには、まず適切な拡張機能をインストールし、GitHub リポジトリとの連携を設定する必要があります。ここでは、基本的な手順を説明します。
