@@ -7,6 +7,18 @@ Hexoで構築しましたが、githubpageによる運用が大変になってき
 作り直しました
 jekyllで作成しなおしています。
 
+## ブランチ戦略
+
+このリポジトリはGit Flowブランチ戦略を採用しています。
+
+- **`main`**: 本番環境（GitHub Pages）へデプロイされるブランチ
+- **`develop`**: 開発中の機能を統合するブランチ
+- **`feature/*`**: 新機能や記事の追加用ブランチ
+- **`release/*`**: リリース準備用ブランチ
+- **`hotfix/*`**: 本番環境の緊急修正用ブランチ
+
+詳細な運用方法については[CONTRIBUTING.md](CONTRIBUTING.md)を参照してください。
+
 ## blog記事作成のコマンド
 
 [Jekyll::Compose 公式](https://github.com/jekyll/jekyll-compose)

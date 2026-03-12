@@ -7,9 +7,15 @@
 name: Deploy Jekyll site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
+  # Runs on pushes targeting the main branch (production deployment)
   push:
     branches: ["main"]
+
+  # Runs on pull requests to main and develop branches for validation
+  pull_request:
+    branches:
+      - main
+      - develop
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -58,6 +64,8 @@ jobs:
 
   # Deployment job
   deploy:
+    # Only deploy when pushing to main branch
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
